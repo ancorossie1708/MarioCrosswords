@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 4536",
+  "bg": "bg-[#FFD700]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "קפיצה",
+      "clue": "זינוק מהיר לאוויר בעזרת הרגליים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "זקנ",
+      "clue": "אדם שחי הרבה מאוד שנים והשיער שלו הלבין",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "נחל",
+      "clue": "זרם מים רדוד שאפשר לחצות בטיול, לעיתים מתייבש בקיץ",
+      "isStarWord": true
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "צבי",
+      "clue": "חיה עדינה וזריזה עם קרניים שרצה באזורי הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "צג",
+      "clue": "המסך השטוח של הטלפון או של המחשב שעליו מוקרנים האותיות והסרטונים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "דולפינ",
+      "clue": "יונק ימי חכם וחברותי שאוהב לקפוץ מעל הגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "פד",
+      "clue": "רפידה רכה ששמים כדי לרכך מכה או כדי להגן היטב על פצע פתוח",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "נמלימ",
+      "clue": "חרקים זעירים וחרוצים שהולכים בטור אל הקן שלהם",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "המלצה",
+      "clue": "עצה טובה לנסות משהו שכדאי לעשות או לראות",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "מסמר",
+      "clue": "חתיכת מתכת דקה וחדה בקצה אחד שדופקים אותה לתוך העץ",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "הצגה",
+      "clue": "מופע תיאטרון שבו אנשים מופיעים על הבמה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "צבעי",
+      "clue": "בעל המקצוע שמגיע עם מברשת לגוון את הקירות בבית לקראת החג",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "נמל",
+      "clue": "המקום בחוף שאליו מגיעות כל האוניות והסירות",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "זהות",
+      "clue": "הפרטים שמייחדים אותנו, כמו שם מלא ומספר רשמי",
+      "isStarWord": false
+    }
+  ]
+}

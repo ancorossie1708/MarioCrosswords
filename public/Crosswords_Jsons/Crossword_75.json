@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 75",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מקור",
+      "clue": "הפה הקשה והמחודד של ציפורים שאיתו הן מנקרות גרגרים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "מגירה",
+      "clue": "תא נשלף בתוך שולחן או ארון שמאחסנים בו ציוד",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "גזר",
+      "clue": "הירק הכתום והפריך שהארנבות כל כך אוהבות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "רקדנ",
+      "clue": "אדם שזז בתיאום לפי קצב המוזיקה בצורה יפה ומרשימה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "יקר",
+      "clue": "מוצר שעולה הרבה מאוד שקלים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "פר",
+      "clue": "הזכר הגדול של הפרה שחי ברפת ואוכל חציר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "מראה",
+      "clue": "משטח עשוי זכוכית שאנחנו מסתכלים בו כדי לראות את הפנים שלנו",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "אגרופ",
+      "clue": "כף יד סגורה בחוזקה, או סוג של ספורט זירה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "אנא",
+      "clue": "מילת בקשה שמנומסת להגיד, \"בבקשה\"",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "אהובה",
+      "clue": "אישה שמרגישים כלפיה רגשות חיבה חזקים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "שש",
+      "clue": "המספר הזוגי שבא בדיוק אחרי המספר חמש ולפני המספר שבע",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "כרמ",
+      "clue": "החלקה החקלאית שבה מגדלים המון שורות של ענבים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "שמפו",
+      "clue": "נוזל ריחני המיועד לקרצוף ולניקיון של השיער במקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "מלפפונ",
+      "clue": "ירק ירוק וארוך שהוא חבר טוב של העגבנייה בסלט",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9059",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אחו",
+      "clue": "שדה ירוק עם דשא שאליו יוצאות הפרות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "חור",
+      "clue": "אזור קרוע במכנס או חלל ריק בתוך משטח שלם",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "שמיעה",
+      "clue": "החוש שבעזרתו אנחנו קולטים צלילים דרך האוזן",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "צילומ",
+      "clue": "תפיסת רגע מיוחד בעזרת מצלמה או טלפון",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "צר",
+      "clue": "מקום דחוק, צפוף ולא רחב שקשה מאוד לעבור דרכו",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "עיפרונ",
+      "clue": "כלי כתיבה מעץ שמשאיר רישום אפור שאפשר למחוק",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "ער",
+      "clue": "פקח את עיניו, יצא מהחלום והתעורר לגמרי לקראת יום חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "פרי",
+      "clue": "האוכל המתוק והעסיסי שצומח על ענפי העצים",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "זרוע",
+      "clue": "החלק הארוך של היד שלנו שמחבר בין הכתף לבין המרפק",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "זוהר",
+      "clue": "אור חזק, מנצנץ ומבריק",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "רכיבה",
+      "clue": "ישיבה והתקדמות על גבי אופניים או על גב של סוס",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "לאט",
+      "clue": "הקצב האיטי שבו מתקדם הצב",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 4,
+      "word": "רואה",
+      "clue": "משתמש בעיניים שלו כדי לקלוט תמונות ממה שמתרחש סביבו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "נחלה",
+      "clue": "שטח אדמה גדול ששייך לאדם כלשהו, לרוב עובר מדור לדור במשפחה",
+      "isStarWord": false
+    }
+  ]
+}

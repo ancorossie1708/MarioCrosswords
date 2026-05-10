@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 64",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "חוטב",
+      "clue": "אדם שלוקח גרזן וחותך את ענפי העצים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "הנחה",
+      "clue": "מצב שבו המחיר בחנות יורד ומשלמים פחות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "חתכ",
+      "clue": "פציעה פתוחה בעור שנגרמה מסכין או מנייר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "חומ",
+      "clue": "הצבע הכהה שמזכיר שוקולד או אדמה רטובה",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "צבעימ",
+      "clue": "הגוונים שאנחנו רואים בעולם, כמו אדום, כחול וירוק",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "מכתב",
+      "clue": "פתק ארוך שרושמים למישהו ושולחים אליו במעטפה בדואר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "מהר",
+      "clue": "בצורה זריזה וקצבית, כמו ריצה של נמר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הבדלה",
+      "clue": "טקס שעורכים במוצאי שבת כדי להתחיל שבוע חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הכרזה",
+      "clue": "הודעה רשמית וקולית שמוסרים להרבה אנשים בבת אחת",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "רש",
+      "clue": "אדם עני וחסר כל שאין לו פרוטה בכיס וצריך עזרה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "רוקד",
+      "clue": "מזיז את גופו באופן אמנותי לפי קצב השיר או המנגינה שמתנגנת",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "קצפ",
+      "clue": "הבועות הקטנטנות והלבנות שנוצרות משפשוף סבון",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "צמ",
+      "clue": "הפסיק לחלוטין לאכול ולשתות במהלך יום הכיפורים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 4,
+      "word": "עט",
+      "clue": "מכשיר הכתיבה שמשאיר דיו על הדף ואי אפשר להעלים אותו עם מחק",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "פשטידה",
+      "clue": "מאפה מלוח שאופים בתנור ומכיל ביצים וירקות",
+      "isStarWord": false
+    }
+  ]
+}

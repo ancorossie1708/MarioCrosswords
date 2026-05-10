@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 2861",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "אגרופ",
+      "clue": "כף יד סגורה בחוזקה, או סוג של ספורט זירה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "רופא",
+      "clue": "האיש שאליו הולכים כשאנחנו מרגישים חולים כדי שייתן לנו תרופה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "ילדות",
+      "clue": "התקופה הקסומה בחיים שבה אנחנו צעירים ומשחקים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "חצופ",
+      "clue": "מתנהג בצורה לא מנומסת ופוגעת כלפי אחרים ללא שום הבעת חרטה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "צמח",
+      "clue": "כל ירק או עץ שנובט מהאדמה וגדל",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "הליכונ",
+      "clue": "מכשיר כושר חשמלי שאפשר לרוץ עליו בתוך חדר הכושר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "הוד",
+      "clue": "מראה מלכותי ומרשים מאוד המעורר כבוד",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "תחת",
+      "clue": "החלק הנמוך ביותר, נמצא למטה ממשהו אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "תנינ",
+      "clue": "זוחל ירוק, ענק ומסוכן שחי ליד ביצות עם פה מלא שיניים חדות",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "נסיכה",
+      "clue": "הבת של המלך והמלכה באגדות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "ער",
+      "clue": "פקח את עיניו, יצא מהחלום והתעורר לגמרי לקראת יום חדש",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "שונא",
+      "clue": "מרגיש רגש חזק ורע כלפי מישהו אחר ואינו סובל את נוכחותו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "נער",
+      "clue": "בחור מתבגר שעבר את גיל עשר, אבל עוד לא אדם בוגר",
+      "isStarWord": false
+    }
+  ]
+}

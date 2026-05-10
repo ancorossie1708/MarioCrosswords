@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 5918",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אדיבה",
+      "clue": "מתנהגת בנימוס, נחמדה ועוזרת לכולם",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "יושב",
+      "clue": "לא עומד, מניח את גופו על כיסא או שטיח כדי לנוח קצת",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "שר",
+      "clue": "אדם בממשלה שאחראי על תחום מסוים וחשוב במדינה, כמו חינוך או ביטחון",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "חרב",
+      "clue": "כלי נשק ארוך וחד מפלדה שאבירים נלחמו בו",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "בישול",
+      "clue": "הכנת תבשילים חמים בסיר על הכיריים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "אגוז",
+      "clue": "פרי יבש עם קליפה קשה מאוד שצריך לפצח",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "אמבט",
+      "clue": "המקום המרובע והעמוק בחדר הרחצה שממלאים במים כדי לטבול בפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "גנבימ",
+      "clue": "אנשים שלוקחים לעצמם דברים שלא שייכים להם",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "רש",
+      "clue": "אדם עני וחסר כל שאין לו פרוטה בכיס וצריך עזרה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "פסטיבל",
+      "clue": "אירוע חגיגי גדול שאורך כמה ימים ויש בו הופעות ופעילויות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "סמל",
+      "clue": "הסימן הציורי הקטן שמוטבע על החולצה או על מטבעות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "בזק",
+      "clue": "המילה למכשיר הטלפון, וגם תיאור לפעולה מהירה מאוד",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 1,
+      "word": "רנ",
+      "clue": "היה שמח ומאושר מאוד והתחיל לפצח בשיר בקול רם",
+      "isStarWord": true
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "סנדל",
+      "clue": "נעל קייצית ופתוחה שמאווררת את כף הרגל בימים החמים של השנה",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "שקט",
+      "clue": "מצב של חוסר רעש, כשאף אחד לא מדבר",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1029",
+  "bg": "bg-[#8B0000]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אוהב",
+      "clue": "בעל רגש חיובי ונעים, מחבב מאוד חפץ מסוים או חבר קרוב",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "בהלה",
+      "clue": "פחד פתאומי שגורם לנו לקפוץ או לצעוק",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "עמ",
+      "clue": "קבוצה ענקית של בני אדם שיש להם מדינה, שפה והיסטוריה משותפת שמחברת ביניהם",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "הזמנה",
+      "clue": "בקשה ממישהו לבוא להתארח או להשתתף במסיבה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "היכל",
+      "clue": "אולם ענק ומפואר מאוד שמיועד למופעים או לאירועים חשובים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "בדולח",
+      "clue": "זכוכית נוצצת ושקופה שדומה ליהלום",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "בחירה",
+      "clue": "קבלת החלטה וסימון אפשרות אחת מתוך כמה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "קמח",
+      "clue": "האבקה הלבנה שנוצרת מטחינת חיטה ומשמשת לאפייה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "מהר",
+      "clue": "בצורה זריזה וקצבית, כמו ריצה של נמר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "מדיח",
+      "clue": "מכונה שעושה עבורנו את העבודה ושוטפת את הכלים המלוכלכים מהארוחה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "רגל",
+      "clue": "האיבר הארוך שבעזרתו אנחנו יכולים לרוץ וללכת",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "תרנגול",
+      "clue": "הציפור שמעירה אותנו בבוקר עם קוקוריקו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    }
+  ]
+}

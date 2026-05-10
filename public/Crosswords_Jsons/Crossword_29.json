@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1517",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "טיסה",
+      "clue": "מסע באוויר בתוך כלי טיס ממדינה אחת לאחרת",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "הלבשה",
+      "clue": "לשים בגדים על מישהו אחר, כמו על תינוק",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "השגה",
+      "clue": "מצליחים להגיע ליעד או למטרה שכל כך רצינו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "ברזל",
+      "clue": "החומר הכי מוכר וחזק בטבע שמשמש לבנייה ולייצור של כלים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "עש",
+      "clue": "חרק מעופף וקטן שלפעמים חודר לארון ועושה חורים מעצבנים בבגדים שלנו",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "זעמ",
+      "clue": "כעס אדיר ועוצמתי על דבר לא הוגן",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "מזוודה",
+      "clue": "תיק גדול וקשיח על גלגלים שלוקחים לחופשה בחוץ לארץ",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הנחה",
+      "clue": "מצב שבו המחיר בחנות יורד ומשלמים פחות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "חיסונ",
+      "clue": "זריקה קטנה במרפאה שמונעת מאיתנו לחלות במחלות קשות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "צר",
+      "clue": "מקום דחוק, צפוף ולא רחב שקשה מאוד לעבור דרכו",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "הגה",
+      "clue": "הגלגל במכונית שבעזרתו הנהג פונה ימינה ושמאלה",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "ספר",
+      "clue": "העצם שקוראים בו כדי ליהנות מסיפור לפני השינה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "אחד",
+      "clue": "המספר שבא מיד אחרי אפס",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "הכנסה",
+      "clue": "הכסף שמרוויחים מעבודה",
+      "isStarWord": false
+    }
+  ]
+}

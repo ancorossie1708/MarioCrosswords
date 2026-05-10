@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 5876",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "צייר",
+      "clue": "האמן שמחזיק מכחול ויוצר יצירות מופת צבעוניות על דפי קנבס",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "כלבה",
+      "clue": "חיית מחמד נקבה ששומרת על הבית ונובחת למשמע זרים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "גנבות",
+      "clue": "מעשים אסורים של לקיחת רכוש ללא רשות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "גזע",
+      "clue": "עמוד העץ העבה והחום שיוצא מהאדמה ונושא את הענפים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "יובל",
+      "clue": "תקופה ארוכה ומיוחדת של חמישים שנים שלמות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "בקבוק",
+      "clue": "כלי עגול וארוך מפלסטיק או מזכוכית ששומר על מים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "קרדיגנ",
+      "clue": "סוודר פתוח שאפשר לרכוס מקדימה בעזרת כפתורים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "סחב",
+      "clue": "נשא משא כבד כמו ארגז ספרים מהאוטו לבית",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "אלפ",
+      "clue": "האות שפותחת את האותיות בעברית",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "מימ",
+      "clue": "הנוזל השקוף שאנחנו חייבים לשתות כדי לחיות",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "חקלאי",
+      "clue": "איש שעובד בשדה, זורע ומגדל יבולים טריים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "מזגנ",
+      "clue": "המכשיר התלוי על הקיר שמוציא אוויר קר בקיץ וחם בחורף",
+      "isStarWord": false
+    }
+  ]
+}

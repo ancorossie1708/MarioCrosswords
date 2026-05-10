@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 7428",
+  "bg": "bg-[#228B22]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "משכורת",
+      "clue": "הכסף שמקבלים עובדים בסוף החודש על עבודתם",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "מסרק",
+      "clue": "כלי עם שיניים שעוברים איתו על השיער כדי להתיר קשרים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "רקדנ",
+      "clue": "אדם שזז בתיאום לפי קצב המוזיקה בצורה יפה ומרשימה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "למידה",
+      "clue": "רכישת ידע חדש בשיעור או דרך קריאת ספר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "מגרש",
+      "clue": "שטח ענק ופתוח שבו משחקים כדורגל או כדורסל",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "אובדנ",
+      "clue": "התחושה העצובה כשחפץ יקר נאבד או כשמישהו חסר",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "ארנב",
+      "clue": "בעל חיים קטן, מהיר וקופצני, שלרוב אוהב לאכול גזר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "בדולח",
+      "clue": "זכוכית נוצצת ושקופה שדומה ליהלום",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "דוד",
+      "clue": "האח של אבא או של אמא במשפחה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "קו",
+      "clue": "פס דק וארוך שמציירים במחברת על הדף הלבן בעזרת עט וסרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "אדמ",
+      "clue": "בן אנוש, כל אחד מאיתנו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "סדק",
+      "clue": "הפס השבור והדק שיש לפעמים במסך הטלפון לאחר שנפל",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    }
+  ]
+}

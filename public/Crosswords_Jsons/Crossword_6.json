@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 7992",
+  "bg": "bg-[#FFD700]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כתמ",
+      "clue": "טיפת הלכלוך שנשארת על החולצה ששפכנו עליה שוקו",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "מסעדה",
+      "clue": "מקום שאליו הולכים כדי להזמין אוכל טעים שמישהו אחר הכין",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "ציור",
+      "clue": "יצירה אמנותית שעושים בעזרת צבעים על דף כדי להביע רגש או רעיון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "צדפה",
+      "clue": "שריון קשיח ויפה שמוצאים על החול בים, ולפעמים מסתתרת בו פנינה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "סוד",
+      "clue": "מידע חשאי ואישי שלחשנו באוזן של החבר הכי טוב",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "קלמארי",
+      "clue": "מאכל ים טעים שמכינים מדיונון",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "לבד",
+      "clue": "להיות במקום ללא אף חבר או אדם אחר בסביבה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "הגנה",
+      "clue": "שמירה על עצמנו או על מישהו אחר מפני פגיעה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "גוזר",
+      "clue": "חותך ניירות או בדים לחתיכות בעזרת מספריים חדות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "ברזימ",
+      "clue": "מתקנים שפותחים כדי למזוג מים לכיור",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "מוט",
+      "clue": "מקל ברזל ארוך ונוקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "יצירה",
+      "clue": "הכנת עבודת אמנות מיוחדת מחומרים שונים כמו פלסטלינה",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "עט",
+      "clue": "מכשיר הכתיבה שמשאיר דיו על הדף ואי אפשר להעלים אותו עם מחק",
+      "isStarWord": false
+    }
+  ]
+}

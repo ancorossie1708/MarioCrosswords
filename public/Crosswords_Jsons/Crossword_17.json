@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 6552",
+  "bg": "bg-[#FFD700]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "קצ",
+      "clue": "הסוף המוחלט של התקופה, הרגע שבו משהו נגמר לתמיד ולא יחזור על עצמו",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "צג",
+      "clue": "המסך השטוח של הטלפון או של המחשב שעליו מוקרנים האותיות והסרטונים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "מגירה",
+      "clue": "תא נשלף בתוך שולחן או ארון שמאחסנים בו ציוד",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "גדל",
+      "clue": "הוסיף סנטימטרים לגובה שלו והתפתח",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 1,
+      "word": "גלגל",
+      "clue": "החלק העגול במכונית או באופניים שמאפשר להם לנסוע",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "זיכרונ",
+      "clue": "מה שנשאר לנו בראש אחרי שחווינו חוויה, או כרטיס שמירה במחשב",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "שלג",
+      "clue": "פתיתי הקרח הרכים והלבנים שמכסים את החרמון",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "גלישה",
+      "clue": "החלקה מהירה על גלי הים או על שלג",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "יצירה",
+      "clue": "הכנת עבודת אמנות מיוחדת מחומרים שונים כמו פלסטלינה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "שועל",
+      "clue": "חיית בר כתומה ויפה שמוכרת כחכמה וערמומית מאוד באגדות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "רוח",
+      "clue": "משב האוויר החזק שאנחנו מרגישים בחוץ בסערה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "חופ",
+      "clue": "רצועת החול החמה שנמצאת ממש לפני שמתחילים הים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "דורש",
+      "clue": "מבקש בתוקף ובצורה החלטית שמשהו יקרה",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "פלפל",
+      "clue": "ירק שיכול להיות מתוק, אבל לפעמים הוא חריף מאוד ושורף בלשון",
+      "isStarWord": false
+    }
+  ]
+}

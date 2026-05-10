@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 63",
+  "bg": "bg-[#FFD700]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כלימ",
+      "clue": "צלחות, מזלגות וכוסות שמניחים על השולחן בארוחה",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "מחברת",
+      "clue": "פנקס גדול עם שורות שבו התלמידים כותבים בשיעור",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "רצ",
+      "clue": "התקדם מהר מאוד בעזרת הרגליים שלו בניסיון להגיע ראשון או לנצח בתחרות",
+      "isStarWord": true
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "צהריימ",
+      "clue": "אמצע היום, הזמן שבו בדרך כלל חוזרים מבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "עצמ",
+      "clue": "אחד החלקים הקשים והלבנים שמרכיבים את השלד בגוף",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "כלב",
+      "clue": "חיית המחמד הנאמנה שאוהבת לקשקש בזנב ולנבוח",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "צבר",
+      "clue": "השיח הקוצני ממנו צומחות סברס מתוקות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "אבטיח",
+      "clue": "פרי קיצי מתוק, ירוק מבחוץ ואדום מבפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "בוסתנ",
+      "clue": "גן מקסים מלא בעצי פרי",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "נמלה",
+      "clue": "חרק שחור קטנטן שהולך בשיירה ומצליח לסחוב פירורים כבדים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "מצלמ",
+      "clue": "שומר רגעים חשובים באמצעות עדשת הטלפון הנייד שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "רגל",
+      "clue": "האיבר הארוך שבעזרתו אנחנו יכולים לרוץ וללכת",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "רנ",
+      "clue": "היה שמח ומאושר מאוד והתחיל לפצח בשיר בקול רם",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "הסבר",
+      "clue": "תיאור ברור שעוזר לילד אחר להבין את החומר",
+      "isStarWord": false
+    }
+  ]
+}

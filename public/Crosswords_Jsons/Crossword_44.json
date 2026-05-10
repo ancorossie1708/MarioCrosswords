@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 2807",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "הפתעה",
+      "clue": "משהו משמח ולא צפוי שקורה פתאום",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "פלפל",
+      "clue": "ירק שיכול להיות מתוק, אבל לפעמים הוא חריף מאוד ושורף בלשון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "הרימ",
+      "clue": "האזורים הכי גבוהים בטבע, עשויים סלעים ואדמה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "זיעה",
+      "clue": "טיפות של מים שיוצאות מהעור כשחם לנו מאוד או אחרי פעילות גופנית",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "עפר",
+      "clue": "האדמה היבשה שמתפוררת לאבק בקיץ",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "המלצה",
+      "clue": "עצה טובה לנסות משהו שכדאי לעשות או לראות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "לחנימ",
+      "clue": "סדרות של צלילים יפים במוזיקה שמרכיבים שיר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "סחב",
+      "clue": "נשא משא כבד כמו ארגז ספרים מהאוטו לבית",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "תו",
+      "clue": "סימן קטן שכתוב בחוברת המוזיקה ומורה לפסנתרן בדיוק איזה צליל לנגן בקלידים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "חלומ",
+      "clue": "סרט דמיוני שאנחנו רואים בראש בזמן שאנחנו ישנים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "מחט",
+      "clue": "כלי מתכת דקיק וחד שבקצהו חור להשחלת חוט תפירה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "נטע",
+      "clue": "חפר גומה באדמה ושם בתוכה שתיל עץ צעיר",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "down",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 1,
+      "word": "פסטרמה",
+      "clue": "סוג של נקניק טעים שעשוי לרוב מחזה הודו פרוס דק",
+      "isStarWord": true
+    }
+  ]
+}

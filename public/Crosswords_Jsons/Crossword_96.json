@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 96",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "זמרת",
+      "clue": "אישה שיודעת לשיר יפה ומופיעה מול קהל",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מנורה",
+      "clue": "מתקן חשמלי שמפיץ אור ומאיר את החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "תפל",
+      "clue": "אוכל חסר טעם לחלוטין שצריך להוסיף לו מלח",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "לוויתנ",
+      "clue": "יונק ימי עצום, החיה הגדולה ביותר בעולם שחיה בים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "גוזר",
+      "clue": "חותך ניירות או בדים לחתיכות בעזרת מספריים חדות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "תו",
+      "clue": "סימן קטן שכתוב בחוברת המוזיקה ומורה לפסנתרן בדיוק איזה צליל לנגן בקלידים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "גלישה",
+      "clue": "החלקה מהירה על גלי הים או על שלג",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "בהלה",
+      "clue": "פחד פתאומי שגורם לנו לקפוץ או לצעוק",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "בלונ",
+      "clue": "שקית גומי דקה שמנפחים באוויר לכבוד יום הולדת",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "דמיונ",
+      "clue": "היכולת לחשוב על עולמות וסיפורים שלא קיימים באמת",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "נעל",
+      "clue": "פריט הלבוש ששרוכים ועוטפים איתו את כף הרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "הוד",
+      "clue": "מראה מלכותי ומרשים מאוד המעורר כבוד",
+      "isStarWord": false
+    }
+  ]
+}

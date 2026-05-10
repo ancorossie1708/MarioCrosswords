@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 72",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אלופה",
+      "clue": "המנצחת הגדולה ביותר בתחרות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "מפלצת",
+      "clue": "יצור דמיוני ומפחיד שלפעמים מסתתר מתחת למיטה באגדות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "יעד",
+      "clue": "המקום שאליו התכוונו להגיע בסוף המסלול שלנו",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "ירק",
+      "clue": "צמח שורש או עלה בריא שאנחנו חותכים לסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "ספסל",
+      "clue": "מושב ארוך מעץ ברחוב או בפארק שיכולים לשבת עליו כמה אנשים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "פסטיבל",
+      "clue": "אירוע חגיגי גדול שאורך כמה ימים ויש בו הופעות ופעילויות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "אסלה",
+      "clue": "מתקן השירותים הקרמי שעליו יושבים ושוטפים מים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "קנ",
+      "clue": "המבנה העגול והיפה מזרדים שענפים שהציפור מכינה לעצמה בין העצים כדי להטיל ביצים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "נחלה",
+      "clue": "שטח אדמה גדול ששייך לאדם כלשהו, לרוב עובר מדור לדור במשפחה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "חקלאי",
+      "clue": "איש שעובד בשדה, זורע ומגדל יבולים טריים",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "מהר",
+      "clue": "בצורה זריזה וקצבית, כמו ריצה של נמר",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "כלבה",
+      "clue": "חיית מחמד נקבה ששומרת על הבית ונובחת למשמע זרים",
+      "isStarWord": false
+    }
+  ]
+}

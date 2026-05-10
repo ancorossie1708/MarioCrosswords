@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 5920",
+  "bg": "bg-[#228B22]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "נקי",
+      "clue": "שטוף היטב וללא כתמים או טיפת לכלוך",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "מסמר",
+      "clue": "חתיכת מתכת דקה וחדה בקצה אחד שדופקים אותה לתוך העץ",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "כיבוי",
+      "clue": "הפסקת אש בוערת או סגירת מכשיר חשמלי",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "קריסטל",
+      "clue": "זכוכית עבה, נוצצת ויקרה, סוג של גביש מבריק",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "שערימ",
+      "clue": "פתחי כניסה גדולים בחומות, או רשתות שבועטים אליהן כדור במשחק",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "מפלצת",
+      "clue": "יצור דמיוני ומפחיד שלפעמים מסתתר מתחת למיטה באגדות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "כיור",
+      "clue": "הקערה שמחוברת במטבח או באמבטיה שלתוכה נשטפים המים מהברז",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "פרי",
+      "clue": "האוכל המתוק והעסיסי שצומח על ענפי העצים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "גדול",
+      "clue": "משהו במידות ענקיות, ההפך מקטן",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "גופ",
+      "clue": "המעטפת של כל איברי האדם יחד מהראש עד הרגליים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "רצפה",
+      "clue": "המשטח החלק שעליו אנחנו דורכים כשאנחנו צועדים בתוך הבית",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "תפל",
+      "clue": "אוכל חסר טעם לחלוטין שצריך להוסיף לו מלח",
+      "isStarWord": false
+    }
+  ]
+}

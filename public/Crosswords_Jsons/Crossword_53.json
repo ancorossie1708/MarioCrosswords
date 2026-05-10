@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 8522",
+  "bg": "bg-[#1E90FF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אוכל",
+      "clue": "מה שאנחנו מכניסים לפה ולועסים כדי לא להיות רעבים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "קלמארי",
+      "clue": "מאכל ים טעים שמכינים מדיונון",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "קד",
+      "clue": "התכופף קדימה עם הראש והגוף כדי להראות כבוד עמוק לאדם שעומד מולו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "יצירה",
+      "clue": "הכנת עבודת אמנות מיוחדת מחומרים שונים כמו פלסטלינה",
+      "isStarWord": true
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "קופאי",
+      "clue": "האיש בחנות שמקבל את הכסף על הקניות שערכנו",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "קלמר",
+      "clue": "תיק קטן לתלמידים שבתוכו מאחסנים עפרונות, טושים ומחק",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "שוטר",
+      "clue": "מי שאחראי לאכוף את החוקים, לובש מדים כחולים ורושם דוחות לממהרים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "חסה",
+      "clue": "הירק העגול עם העלים הירוקים והפריכים שאוכלים בסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "חול",
+      "clue": "הגרגרים הקטנטנים והזהובים שאנחנו פוגשים בים או במדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "מוצר",
+      "clue": "חפץ כלשהו שמכינים במפעל ואפשר להציע אותו ללקוחות",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "לפת",
+      "clue": "ירק שורש בצבע לבן-סגול שמוסיפים למרק",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "תר",
+      "clue": "טייל בעולם, סייר וחקר מקומות חדשים בטבע שעוד לא הכיר לפני כן",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "ארוחה",
+      "clue": "האוכל שאוכלים בבוקר, בצהריים או בערב",
+      "isStarWord": false
+    }
+  ]
+}

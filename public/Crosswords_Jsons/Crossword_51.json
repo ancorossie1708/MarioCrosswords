@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 7590",
+  "bg": "bg-[#1E90FF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מדרגה",
+      "clue": "שלב קטן שדורכים עליו כשעולים או יורדים בבניין",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מברג",
+      "clue": "כלי עבודה שמסובב ומחזק ברגים למקומם היציב",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "גוזר",
+      "clue": "חותך ניירות או בדים לחתיכות בעזרת מספריים חדות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "צבר",
+      "clue": "השיח הקוצני ממנו צומחות סברס מתוקות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "בעיות",
+      "clue": "קשיים או שאלות מסובכות שצריך לפתור",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "זחלימ",
+      "clue": "חרקים ארוכים שהולכים על הבטן ובהמשך הופכים לפרפרים",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "הוד",
+      "clue": "מראה מלכותי ומרשים מאוד המעורר כבוד",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "מפתח",
+      "clue": "הכלי ממתכת שאנחנו מכניסים לחור שבדלת כדי לסובב ולפתוח אותה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "חוסנ",
+      "clue": "הכוח והיכולת שלנו להישאר יציבים ולא להישבר תחת לחץ",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "צבי",
+      "clue": "חיה עדינה וזריזה עם קרניים שרצה באזורי הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "שד",
+      "clue": "יצור מפחיד ודמיוני מהאגדות שלפעמים מגשים משאלות כשהוא יוצא מתוך מנורת קסמים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "שר",
+      "clue": "אדם בממשלה שאחראי על תחום מסוים וחשוב במדינה, כמו חינוך או ביטחון",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "רז",
+      "clue": "מילה נרדפת לסוד קסום או לדבר נסתר שאסור בשום אופן לגלות לאף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "חילזונ",
+      "clue": "בעל חיים איטי שהולך עם הבית שלו על הגב ומשאיר שובל לח",
+      "isStarWord": false
+    }
+  ]
+}

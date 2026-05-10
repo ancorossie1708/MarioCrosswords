@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1180",
+  "bg": "bg-[#228B22]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מהר",
+      "clue": "בצורה זריזה וקצבית, כמו ריצה של נמר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "הכנסה",
+      "clue": "הכסף שמרוויחים מעבודה",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "שעונ",
+      "clue": "המכשיר שאומר לנו מה השעה, עם מחוגים או עם ספרות דיגיטליות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "ענבימ",
+      "clue": "פירות קטנים ומתוקים שגדלים באשכולות על הגפן",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "שנה",
+      "clue": "פרק הזמן שלוקח לכדור הארץ להקיף את השמש",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "צבי",
+      "clue": "חיה עדינה וזריזה עם קרניים שרצה באזורי הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "חכמות",
+      "clue": "ילדות או נשים נבונות שמבינות נושאים מהר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 6,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "צהריימ",
+      "clue": "אמצע היום, הזמן שבו בדרך כלל חוזרים מבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "צובע",
+      "clue": "מוסיף גוונים לציור שחור-לבן בעזרת טושים או בעזרת עפרונות פסטל",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "ימימ",
+      "clue": "אוסף התקופות של עשרים וארבע שעות כל אחת",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "עשב",
+      "clue": "השם הכללי לצמחים קטנים וירוקים הגדלים פרא",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "מתכת",
+      "clue": "חומר חזק ונוקשה במיוחד, כמו נחושת, שממנו בונים מכוניות",
+      "isStarWord": false
+    }
+  ]
+}

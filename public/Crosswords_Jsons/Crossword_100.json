@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 100",
+  "bg": "bg-[#228B22]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כבוד",
+      "clue": "התנהגות נעימה והערכה למישהו מבוגר או חשוב",
+      "isStarWord": true
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "ביצוע",
+      "clue": "עשיית משימה או פעולה במציאות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "צהריימ",
+      "clue": "אמצע היום, הזמן שבו בדרך כלל חוזרים מבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "דאג",
+      "clue": "חשש לשלומו של חבר וקיווה שיהיה בסדר",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "מרחק",
+      "clue": "הדרך שצריך לעבור ממקום אחד אל מקום אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "דאגה",
+      "clue": "מחשבות טורדניות מתוך חשש שדבר רע יקרה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "אכילה",
+      "clue": "הכנסת מזון לפה ולעיסתו כדי להיות שבעים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "עננ",
+      "clue": "הגוש הלבן או האפור שמרחף בשמיים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "לימונ",
+      "clue": "פרי הדר צהוב ודי חמוץ שמוסיפים לתה או לסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "למד",
+      "clue": "הקשיב בשיעור ורכש ידע חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 1,
+      "word": "לחמ",
+      "clue": "מאפה מקמח שהוכנס לתנור ומשמש להכנת כריכים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "דחיה",
+      "clue": "הזזת תוכנית או פגישה לזמן מאוחר יותר ממה שנקבע",
+      "isStarWord": false
+    }
+  ]
+}

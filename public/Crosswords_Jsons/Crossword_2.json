@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9365",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "עכבר",
+      "clue": "מכרסם קטנטן ומהיר עם זנב ארוך שאוהב מאוד גבינה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "כלל",
+      "clue": "חוק או הוראה קבועה בכיתה שצריך לעקוב אחריה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "סערה",
+      "clue": "מזג אוויר חורפי וסוער במיוחד עם גשם, רוחות חזקות ולפעמים גם ברקים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "נוגע",
+      "clue": "מעביר את ידו או את אצבעו כדי להרגיש חפץ מסוים מולו",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "שעועית",
+      "clue": "קטנית בצורת תרמיל ארוך, בדרך כלל מגיעה בצבע ירוק או לבן",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "שלומ",
+      "clue": "המילה הידידותית שאנחנו אומרים לחברים כשאנחנו רק פוגשים אותם",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "מיצ",
+      "clue": "משקה סחוט ומרענן שמכינים מתפוזים מתוקים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "יציאה",
+      "clue": "הדלת או הפתח שדרכם עוזבים את החדר או הבניין",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "ירקות",
+      "clue": "צמחים בריאים שאוכלים בסלט, כמו מלפפון וגזר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "עצ",
+      "clue": "צמח עצום שיש לו גזע חום ועבה שממנו יוצאים ענפים ירוקים",
+      "isStarWord": true
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "עקב",
+      "clue": "החלק העגול בחלקה האחורי של כף הרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "ירח",
+      "clue": "הגוף השמימי והלבן שמאיר לנו את הלילה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "שותפה",
+      "clue": "חברה שמבצעת איתנו עבודה יחד ומתחלקת באחריות",
+      "isStarWord": false
+    }
+  ]
+}

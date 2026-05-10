@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 95",
+  "bg": "bg-[#228B22]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מקדש",
+      "clue": "מקום קדוש ומרשים שנבנה כדי להתפלל בו",
+      "isStarWord": true
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "סדק",
+      "clue": "הפס השבור והדק שיש לפעמים במסך הטלפון לאחר שנפל",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "דרבוקה",
+      "clue": "תוף קטן ומסורתי שמנגנים עליו בעזרת כפות הידיים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "עצ",
+      "clue": "צמח עצום שיש לו גזע חום ועבה שממנו יוצאים ענפים ירוקים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "ציפוי",
+      "clue": "השכבה החיצונית שעוטפת משהו, כמו שוקולד על סופגניה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "קד",
+      "clue": "התכופף קדימה עם הראש והגוף כדי להראות כבוד עמוק לאדם שעומד מולו",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "אחרימ",
+      "clue": "אנשים שונים, מישהו שהוא לא אני",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "חופ",
+      "clue": "רצועת החול החמה שנמצאת ממש לפני שמתחילים הים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "שוקו",
+      "clue": "משקה חום ומתוק שלרוב מכינים מחימום של חלב ואבקת קקאו",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "וילונ",
+      "clue": "בד יפה שתולים על החלון כדי להסתיר את האור",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "הקמה",
+      "clue": "יצירה ובנייה של מבנה או ארגון חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "קר",
+      "clue": "התחושה המקפיאה בחורף שגורמת לנו לרעוד ולמהר ללבוש מעיל עבה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "חנות",
+      "clue": "מבנה שבו אפשר לקנות צעצועים, בגדים או ממתקים",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "מקל",
+      "clue": "חתיכת עץ ארוכה ודקה שאפשר לצעוד איתה",
+      "isStarWord": false
+    }
+  ]
+}

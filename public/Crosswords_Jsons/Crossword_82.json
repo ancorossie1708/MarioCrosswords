@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 82",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "תרמיל",
+      "clue": "תיק גדול ונוח ששמים על הגב כשיוצאים לטיול",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "חביתה",
+      "clue": "מאכל צהוב וטעים שמכינים מביצים שמטגנים במחבת",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "תשעימ",
+      "clue": "מספר גדול שהוא עשר פעמים תשע",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "רז",
+      "clue": "מילה נרדפת לסוד קסום או לדבר נסתר שאסור בשום אופן לגלות לאף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "קולע",
+      "clue": "מצליח להכניס את הכדור בדיוק רב היישר אל תוך הסל",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "חילזונ",
+      "clue": "בעל חיים איטי שהולך עם הבית שלו על הגב ומשאיר שובל לח",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "לומד",
+      "clue": "מקבל ידע חדש על חומר או נושא שלא הכיר לפני כן",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "מרפק",
+      "clue": "החיבור החד באמצע היד שמאפשר לנו לקפל וליישר אותה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "חלב",
+      "clue": "המשקה הלבן והבריא שהפרה נותנת לנו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "עז",
+      "clue": "חיית משק צמחונית בעלת קרניים וזקן שנותנת לנו חלב ופועה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "פיל",
+      "clue": "היונק הכבד ביותר ביבשה שיש לו חדק ארוך",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "בנק",
+      "clue": "הבניין השמור שבו אנשים מפקידים את המשכורת שלהם",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "ביתנ",
+      "clue": "מבנה קטן המשמש לשמירה או להצגת דברים ביריד",
+      "isStarWord": false
+    }
+  ]
+}

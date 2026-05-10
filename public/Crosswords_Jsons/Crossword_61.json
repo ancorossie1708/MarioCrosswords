@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 61",
+  "bg": "bg-[#228B22]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אפייה",
+      "clue": "הכנת לחם, עוגות או עוגיות בתנור",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "שמשייה",
+      "clue": "מעין מטרייה ענקית שנועדה לתת צל בחוף הים",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "ישנ",
+      "clue": "חפץ שכבר אינו חדש, דהוי או בלוי מרוב זמן שעבר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "הנחיה",
+      "clue": "הסבר ברור או הוראה איך לבצע משימה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "פנ",
+      "clue": "מכשיר חשמלי שמוציא אוויר חם ובעזרתו מייבשים את השיער הרטוב אחרי מקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "סלונ",
+      "clue": "החדר המרכזי שבו כל המשפחה יושבת יחד על הספה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "לחנימ",
+      "clue": "סדרות של צלילים יפים במוזיקה שמרכיבים שיר",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "המונ",
+      "clue": "כמות ענקית של אנשים או דברים באותו המקום",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "מורה",
+      "clue": "מי שעומד מול הכיתה ומעביר את החומר לתלמידים בחשבון או בשפה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "בושה",
+      "clue": "ההרגשה הלא נעימה שיש לנו כשאנחנו מפשלים ומסמיקים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "בנה",
+      "clue": "הקים מבנה חדש מלבנים או מקוביות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "שיר",
+      "clue": "מילים המחוברות למנגינה שזמרים שרים בהופעה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "זהב",
+      "clue": "המתכת היקרה והנוצצת שממנה מכינים תכשיטים וכתרים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    }
+  ]
+}

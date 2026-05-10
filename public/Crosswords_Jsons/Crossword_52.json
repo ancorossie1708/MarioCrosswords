@@ -1,0 +1,171 @@
+{
+  "theme": "Crossword Level 8877",
+  "bg": "bg-[#8B0000]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מפוחית",
+      "clue": "כלי נשיפה קטן שמנגנים בו בעזרת השפתיים ומוציאים צלילים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "פתח",
+      "clue": "הרווח בחלון או בדלת שדרכו ניתן לעבור",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "חושב",
+      "clue": "משתמש במוח שלו כדי להבין סוגיה מסוימת או כדי לפתור בעיה מורכבת",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "תר",
+      "clue": "טייל בעולם, סייר וחקר מקומות חדשים בטבע שעוד לא הכיר לפני כן",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "חצות",
+      "clue": "השעה המאוחרת בלילה, בדיוק השעה שתים עשרה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "צמח",
+      "clue": "כל ירק או עץ שנובט מהאדמה וגדל",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "הבטחה",
+      "clue": "התחייבות לעשות משהו שאמרנו שנעשה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "חזרות",
+      "clue": "אימונים חוזרים לקראת מופע כדי לדעת הכל בעל פה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "תחת",
+      "clue": "החלק הנמוך ביותר, נמצא למטה ממשהו אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "חומה",
+      "clue": "קיר אבן גבוה ועבה שנבנה כדי לשמור על עיר מפני אויבים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "ערב",
+      "clue": "שעות החשיכה שבהן אנחנו מכינים את עצמנו לשינה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "עט",
+      "clue": "מכשיר הכתיבה שמשאיר דיו על הדף ואי אפשר להעלים אותו עם מחק",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "רצ",
+      "clue": "התקדם מהר מאוד בעזרת הרגליים שלו בניסיון להגיע ראשון או לנצח בתחרות",
+      "isStarWord": true
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "חמור",
+      "clue": "חיה אפורה ועיקשת שלעיתים סוחבת משאות כבדים",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "בוסתנ",
+      "clue": "גן מקסים מלא בעצי פרי",
+      "isStarWord": false
+    }
+  ]
+}

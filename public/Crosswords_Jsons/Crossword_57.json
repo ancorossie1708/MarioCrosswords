@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 57",
+  "bg": "bg-[#FFD700]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "דורש",
+      "clue": "מבקש בתוקף ובצורה החלטית שמשהו יקרה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "חשב",
+      "clue": "הפעיל את המוח בניסיון למצוא רעיון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "בעיות",
+      "clue": "קשיים או שאלות מסובכות שצריך לפתור",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "באר",
+      "clue": "בור עמוק שחופרים באדמה כדי להוציא מים לשתייה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "שומע",
+      "clue": "קולט רעשים, דיבורים או מוזיקה דרך האוזניים שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "רכב",
+      "clue": "מכונית שזזה בעזרת מנוע וארבעה גלגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "שטיחונ",
+      "clue": "מחצלת קטנה שמונחת בכניסה לבית כדי לנגב את הרגליים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "ניווט",
+      "clue": "מציאת הדרך הנכונה להגיע ליעד בקלות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "סרטנ",
+      "clue": "יצור ימי עם צבתות שהולך הצידה על חול הים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "רצפה",
+      "clue": "המשטח החלק שעליו אנחנו דורכים כשאנחנו צועדים בתוך הבית",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "פנס",
+      "clue": "המכשיר המופעל בסוללות שאנחנו מדליקים כדי לראות בחושך",
+      "isStarWord": true
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "עט",
+      "clue": "מכשיר הכתיבה שמשאיר דיו על הדף ואי אפשר להעלים אותו עם מחק",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "רנ",
+      "clue": "היה שמח ומאושר מאוד והתחיל לפצח בשיר בקול רם",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "סרטונ",
+      "clue": "קטע ויזואלי קצר שצופים בו ביוטיוב או בטלפון",
+      "isStarWord": false
+    }
+  ]
+}

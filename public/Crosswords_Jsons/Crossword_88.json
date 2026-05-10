@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 88",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "פרי",
+      "clue": "האוכל המתוק והעסיסי שצומח על ענפי העצים",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "פר",
+      "clue": "הזכר הגדול של הפרה שחי ברפת ואוכל חציר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "איכר",
+      "clue": "אדם שעובד באדמה, זורע חיטה ודואג ליבולים במסגרת עבודה בחקלאות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "מימ",
+      "clue": "הנוזל השקוף שאנחנו חייבים לשתות כדי לחיות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "כיבוי",
+      "clue": "הפסקת אש בוערת או סגירת מכשיר חשמלי",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "קיצ",
+      "clue": "העונה שבה לא הולכים לבית הספר והולכים לים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "קנ",
+      "clue": "המבנה העגול והיפה מזרדים שענפים שהציפור מכינה לעצמה בין העצים כדי להטיל ביצים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "צמ",
+      "clue": "הפסיק לחלוטין לאכול ולשתות במהלך יום הכיפורים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "מדרכה",
+      "clue": "שביל מרוצף לצד הכביש המיועד להולכי רגל",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "כינור",
+      "clue": "כלי נגינה קלאסי שמפיקים ממנו צליל בעזרת קשת",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "מורה",
+      "clue": "מי שעומד מול הכיתה ומעביר את החומר לתלמידים בחשבון או בשפה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "חזרה",
+      "clue": "לשוב לאותו מקום, או לתרגל קטע שוב ושוב לפני מבחן",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "דולפינ",
+      "clue": "יונק ימי חכם וחברותי שאוהב לקפוץ מעל הגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "נהר",
+      "clue": "ערוץ מים רחב שזורם כל השנה לעבר הים",
+      "isStarWord": true
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "מראה",
+      "clue": "משטח עשוי זכוכית שאנחנו מסתכלים בו כדי לראות את הפנים שלנו",
+      "isStarWord": false
+    }
+  ]
+}

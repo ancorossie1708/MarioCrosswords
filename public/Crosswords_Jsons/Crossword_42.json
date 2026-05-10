@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 5224",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "חייל",
+      "clue": "אדם צעיר שלובש מדים ירוקים ומגן על המדינה במסגרת הצבא",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "קפיצ",
+      "clue": "סליל מתכת גמיש שאפשר למתוח אותו והוא חוזר מיד בחזרה למקום",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "קר",
+      "clue": "התחושה המקפיאה בחורף שגורמת לנו לרעוד ולמהר ללבוש מעיל עבה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "ימימ",
+      "clue": "אוסף התקופות של עשרים וארבע שעות כל אחת",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "יצר",
+      "clue": "בנה משהו חדש לחלוטין שאף פעם לא היה קודם לכן",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "אוזניה",
+      "clue": "מתקן שמרכיבים על הראש כדי לשמוע שירים בלי להפריע לאחרים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "איגלו",
+      "clue": "בית עגול שעשוי מלבני קרח ושלג",
+      "isStarWord": true
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "לאט",
+      "clue": "הקצב האיטי שבו מתקדם הצב",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "אוויר",
+      "clue": "הגז השקוף שנמצא סביבנו ואותו אנחנו נושמים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "עצ",
+      "clue": "צמח עצום שיש לו גזע חום ועבה שממנו יוצאים ענפים ירוקים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "תפוח",
+      "clue": "פרי עגול וקשה, יכול להיות אדום או ירוק, שנהוג לטבול בדבש בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "ציפוי",
+      "clue": "השכבה החיצונית שעוטפת משהו, כמו שוקולד על סופגניה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "חרב",
+      "clue": "כלי נשק ארוך וחד מפלדה שאבירים נלחמו בו",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "מחק",
+      "clue": "מה שעוזר להעלים את הטעויות שכתבנו בעיפרון במחברת",
+      "isStarWord": false
+    }
+  ]
+}

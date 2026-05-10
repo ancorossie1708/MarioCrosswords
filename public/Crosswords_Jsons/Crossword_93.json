@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 93",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "קופסה",
+      "clue": "כלי קשיח מקרטון או פלסטיק שאפשר לאחסן בתוכו צעצועים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "מיטה",
+      "clue": "הרהיט הרך והנוח בחדר שעליו אנחנו נרדמים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "טפטפ",
+      "clue": "הוריד מים או נוזל בטיפות קטנות, איטיות ורצופות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "סופ",
+      "clue": "השניות האחרונות של הסרט שבהן הכל נפתר ונגמר",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "נסיעה",
+      "clue": "התקדמות ממקום למקום בתוך כלי רכב ממונע",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "כרטיס",
+      "clue": "פתק קטן שקונים כדי להיכנס לקולנוע או לרכבת",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "כיור",
+      "clue": "הקערה שמחוברת במטבח או באמבטיה שלתוכה נשטפים המים מהברז",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "המונ",
+      "clue": "כמות ענקית של אנשים או דברים באותו המקום",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "שדה",
+      "clue": "מרחב גדול ופתוח שבו שותלים גידולים חקלאיים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "שחר",
+      "clue": "הרגעים הראשונים של הבוקר, עוד לפני שהשמש זרחה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "שיר",
+      "clue": "מילים המחוברות למנגינה שזמרים שרים בהופעה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "שד",
+      "clue": "יצור מפחיד ודמיוני מהאגדות שלפעמים מגשים משאלות כשהוא יוצא מתוך מנורת קסמים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "קלוריה",
+      "clue": "יחידת המידה שבעזרתה בודקים כמה אנרגיה יש באוכל",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 69",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "גבעה",
+      "clue": "הר קטן ונמוך שאפשר לטפס עליו בקלות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "פנקס",
+      "clue": "מחברת קטנה עם דפים שנוח להכניס לכיס ולרשום בה הערות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "הכרזה",
+      "clue": "הודעה רשמית וקולית שמוסרים להרבה אנשים בבת אחת",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "בוסתנ",
+      "clue": "גן מקסים מלא בעצי פרי",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "קלמר",
+      "clue": "תיק קטן לתלמידים שבתוכו מאחסנים עפרונות, טושים ומחק",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "משפחה",
+      "clue": "האנשים הכי קרובים אלינו, כמו אחים, אבא ואמא",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "קשת",
+      "clue": "הנשק העתיק שמותחים בו מיתר כדי לירות חצים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "מאה",
+      "clue": "המספר העגול שסוגר את הדו-ספרתיים, עשר כפול עשר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "אמונ",
+      "clue": "ביטחון מלא במישהו שהוא לא ישקר לנו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "טלה",
+      "clue": "הגור הצעיר והחמוד של הכבשה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "עש",
+      "clue": "חרק מעופף וקטן שלפעמים חודר לארון ועושה חורים מעצבנים בבגדים שלנו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "חילזונ",
+      "clue": "בעל חיים איטי שהולך עם הבית שלו על הגב ומשאיר שובל לח",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "שדה",
+      "clue": "מרחב גדול ופתוח שבו שותלים גידולים חקלאיים",
+      "isStarWord": false
+    }
+  ]
+}

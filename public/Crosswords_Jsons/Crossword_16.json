@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9434",
+  "bg": "bg-[#1E90FF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "משחק",
+      "clue": "פעילות מהנה שיש בה חוקים מוגדרים, בלוח או בכדור",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "דאגה",
+      "clue": "מחשבות טורדניות מתוך חשש שדבר רע יקרה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "אגרופ",
+      "clue": "כף יד סגורה בחוזקה, או סוג של ספורט זירה",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "יושב",
+      "clue": "לא עומד, מניח את גופו על כיסא או שטיח כדי לנוח קצת",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "צר",
+      "clue": "מקום דחוק, צפוף ולא רחב שקשה מאוד לעבור דרכו",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "מסדרונ",
+      "clue": "מעבר צר וארוך בתוך הבית שמחבר בין החדרים השונים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "בעיות",
+      "clue": "קשיים או שאלות מסובכות שצריך לפתור",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "בוקר",
+      "clue": "החלק הראשון של היום, הזמן שבו קמים לבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "קיפוד",
+      "clue": "חיה קטנה וביישנית שהגב שלה מלא בקוצים דוקרים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "ירח",
+      "clue": "הגוף השמימי והלבן שמאיר לנו את הלילה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "יפה",
+      "clue": "נראה נהדר ומוצא חן בעינינו, אסתטי מאוד",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "תפל",
+      "clue": "אוכל חסר טעם לחלוטין שצריך להוסיף לו מלח",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "לחנ",
+      "clue": "המנגינה שמתאימים למילים כדי שיהפכו לשיר",
+      "isStarWord": false
+    }
+  ]
+}

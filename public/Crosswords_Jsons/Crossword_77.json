@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 77",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "צבר",
+      "clue": "השיח הקוצני ממנו צומחות סברס מתוקות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "זהות",
+      "clue": "הפרטים שמייחדים אותנו, כמו שם מלא ומספר רשמי",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "הבדלה",
+      "clue": "טקס שעורכים במוצאי שבת כדי להתחיל שבוע חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "אקרובט",
+      "clue": "לוליין אמיץ בקרקס שעושה תרגילים וקפיצות באוויר",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "כפפה",
+      "clue": "פריט שמלבישים כדי להגן על כפות הידיים מהקור, ויש בו מקום לכל אצבע",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "דיבור",
+      "clue": "הוצאת מילים מהפה כדי לתקשר עם הסביבה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "פיל",
+      "clue": "היונק הכבד ביותר ביבשה שיש לו חדק ארוך",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "גמול",
+      "clue": "מה שמקבלים בתמורה למעשה שעשינו, לרוב סוג של פרס",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "זהב",
+      "clue": "המתכת היקרה והנוצצת שממנה מכינים תכשיטים וכתרים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "זרע",
+      "clue": "הגרגיר הקטן שטומנים באדמה כדי שינבט",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "אמבט",
+      "clue": "המקום המרובע והעמוק בחדר הרחצה שממלאים במים כדי לטבול בפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "עז",
+      "clue": "חיית משק צמחונית בעלת קרניים וזקן שנותנת לנו חלב ופועה",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "חקלאי",
+      "clue": "איש שעובד בשדה, זורע ומגדל יבולים טריים",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 101",
+  "bg": "bg-[#1E90FF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "כיור",
+      "clue": "הקערה שמחוברת במטבח או באמבטיה שלתוכה נשטפים המים מהברז",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "נטע",
+      "clue": "חפר גומה באדמה ושם בתוכה שתיל עץ צעיר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "טרקטור",
+      "clue": "רכב חקלאי שחורש את השדה וסוחב עגלות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "ניווט",
+      "clue": "מציאת הדרך הנכונה להגיע ליעד בקלות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "רש",
+      "clue": "אדם עני וחסר כל שאין לו פרוטה בכיס וצריך עזרה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הגנות",
+      "clue": "אמצעים ששומרים עלינו מפני פגיעה או סכנה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הרימ",
+      "clue": "האזורים הכי גבוהים בטבע, עשויים סלעים ואדמה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "יובל",
+      "clue": "תקופה ארוכה ומיוחדת של חמישים שנים שלמות",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "אטד",
+      "clue": "שיח קוצני שגדל פרא",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "מלאכ",
+      "clue": "יצור קסום וטוב לב מהשמיים שתמיד שומר עלינו מלמעלה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "בצל",
+      "clue": "ירק עגול וחריף שגורם לעיניים לדמוע כשחותכים אותו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "רנ",
+      "clue": "היה שמח ומאושר מאוד והתחיל לפצח בשיר בקול רם",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "נחש",
+      "clue": "זוחל חסר רגליים שלעיתים מכיש כשמרגיזים אותו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "עכביש",
+      "clue": "חרק קטן עם שמונה רגליים שטווה קורים כדי לצוד",
+      "isStarWord": false
+    }
+  ]
+}
