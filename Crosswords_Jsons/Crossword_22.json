@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 3687",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אוזניה",
+      "clue": "מתקן שמרכיבים על הראש כדי לשמוע שירים בלי להפריע לאחרים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "עצלנ",
+      "clue": "אדם שאין לו כוח לבצע משימות והוא רק רוצה לנוח במיטה או על הספה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "חובה",
+      "clue": "משימה שאין ברירה ומוכרחים לבצע, כמו שיעורי בית",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "חומ",
+      "clue": "הצבע הכהה שמזכיר שוקולד או אדמה רטובה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "ברזל",
+      "clue": "החומר הכי מוכר וחזק בטבע שמשמש לבנייה ולייצור של כלים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "זחלימ",
+      "clue": "חרקים ארוכים שהולכים על הבטן ובהמשך הופכים לפרפרים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "שלג",
+      "clue": "פתיתי הקרח הרכים והלבנים שמכסים את החרמון",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "גדיימ",
+      "clue": "התינוקות הצעירים של העזים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "רעב",
+      "clue": "הרגיש שהבטן מקרקרת והוא מוכרח לאכול ארוחה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "הופעה",
+      "clue": "אירוע שבו זמר או קוסם מציגים את הכישרון שלהם לקהל",
+      "isStarWord": true
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "נושמ",
+      "clue": "מכניס אוויר לריאות ומוציא אותו באופן טבעי כדי לחיות",
+      "isStarWord": false
+    }
+  ]
+}

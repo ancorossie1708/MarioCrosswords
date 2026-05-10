@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 89",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פלאפונ",
+      "clue": "מכשיר קטן ונייד שאפשר להתקשר ממנו ולשחק בו משחקים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "פיצה",
+      "clue": "בצק אפוי ושטוח שמורחים עליו רוטב עגבניות ומפזרים גבינה צהובה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "איומה",
+      "clue": "מפחידה או גרועה מאוד",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "קפיצ",
+      "clue": "סליל מתכת גמיש שאפשר למתוח אותו והוא חוזר מיד בחזרה למקום",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "פרפר",
+      "clue": "חרק יפהפה ועדין עם כנפיים צבעוניות שמתעופף בין פרחים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "הורימ",
+      "clue": "אבא ואמא שמגדלים אותנו",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "גמול",
+      "clue": "מה שמקבלים בתמורה למעשה שעשינו, לרוב סוג של פרס",
+      "isStarWord": true
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "מאה",
+      "clue": "המספר העגול שסוגר את הדו-ספרתיים, עשר כפול עשר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "מנורה",
+      "clue": "מתקן חשמלי שמפיץ אור ומאיר את החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "הלכ",
+      "clue": "צעד על רגליו בקצב איטי ולא מיהר",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "אחו",
+      "clue": "שדה ירוק עם דשא שאליו יוצאות הפרות",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    }
+  ]
+}

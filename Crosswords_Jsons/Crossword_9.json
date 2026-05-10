@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1111",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "בדיחה",
+      "clue": "סיפור קצר ומצחיק שגורם לכולם לצחוק",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "בטנ",
+      "clue": "האזור האמצעי של הגוף שבו נמצא הפופיק",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "דוד",
+      "clue": "האח של אבא או של אמא במשפחה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "טקסט",
+      "clue": "קטע של מילים ומשפטים שכתוב בספר או על הדף",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "סוללה",
+      "clue": "רכיב קטן שנותן כוח לצעצועים ושלטים כדי שיעבדו",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "חייל",
+      "clue": "אדם צעיר שלובש מדים ירוקים ומגן על המדינה במסגרת הצבא",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "ילקוט",
+      "clue": "התיק שלוקחים כל בוקר לבית הספר עם הספרים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "חלק",
+      "clue": "חתיכה קטנה של פאזל שמרכיבה תמונה שלמה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "זוחל",
+      "clue": "מתקדם על גחונו קרוב מאוד לאדמה ללא שימוש ברגליים, בדומה לנחש",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "שקשוקה",
+      "clue": "מאכל ישראלי אהוב שמורכב מביצים ברוטב עגבניות לוהט במחבת",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "רנ",
+      "clue": "היה שמח ומאושר מאוד והתחיל לפצח בשיר בקול רם",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "חוט",
+      "clue": "הסליל הדקיק שמשחילים למחט כדי לתקן קרע בחולצה",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "לשונ",
+      "clue": "האיבר הגמיש והוורוד בתוך הפה שעוזר לנו לטעום ולדבר",
+      "isStarWord": false
+    }
+  ]
+}

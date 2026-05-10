@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 102",
+  "bg": "bg-[#87CEEB]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "זמזמ",
+      "clue": "השמיע רעש מתמשך כמו של דבורה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "זורק",
+      "clue": "משליך חפץ מסוים באוויר למרחק רב ככל האפשר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "טייס",
+      "clue": "האדם שיושב בקדמת כלי הטיס ומוביל אותו בבטחה אל עבר יעד רחוק",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "טיל",
+      "clue": "כלי תעופה שמשוגר לחלל או מנוע סילון מהיר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "מקור",
+      "clue": "הפה הקשה והמחודד של ציפורים שאיתו הן מנקרות גרגרים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "קונצרט",
+      "clue": "הופעה חיה של מוזיקה קלאסית מול קהל באולם",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "קופסה",
+      "clue": "כלי קשיח מקרטון או פלסטיק שאפשר לאחסן בתוכו צעצועים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "פחד",
+      "clue": "התחושה המלחיצה שמורגשת כשאנחנו לבד בחושך",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "הבטחה",
+      "clue": "התחייבות לעשות משהו שאמרנו שנעשה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "אנא",
+      "clue": "מילת בקשה שמנומסת להגיד, \"בבקשה\"",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "אגפ",
+      "clue": "חלק נפרד בתוך בניין גדול או בית חולים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "תר",
+      "clue": "טייל בעולם, סייר וחקר מקומות חדשים בטבע שעוד לא הכיר לפני כן",
+      "isStarWord": true
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 1,
+      "word": "טיפול",
+      "clue": "דאגה למישהו חולה או פצוע עד שיבריא לגמרי",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 4764",
+  "bg": "bg-[#228B22]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "תופס",
+      "clue": "לוכד כדור או חפץ אחר שעף לעברו בעזרת שתי הידיים שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "אטד",
+      "clue": "שיח קוצני שגדל פרא",
+      "isStarWord": true
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "דאגה",
+      "clue": "מחשבות טורדניות מתוך חשש שדבר רע יקרה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "ברווז",
+      "clue": "עוף מים שמשמיע קול גע-גע",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "שותפה",
+      "clue": "חברה שמבצעת איתנו עבודה יחד ומתחלקת באחריות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "שר",
+      "clue": "אדם בממשלה שאחראי על תחום מסוים וחשוב במדינה, כמו חינוך או ביטחון",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "סליחה",
+      "clue": "המילה שאומרים כשמצטערים על משהו רע שעשינו",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "חרס",
+      "clue": "אדמה שנאפתה בתנור חם ומשמשת להכנת כדי מים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "עכבר",
+      "clue": "מכרסם קטנטן ומהיר עם זנב ארוך שאוהב מאוד גבינה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "כדורסל",
+      "clue": "ספורט קבוצתי שבו צריך לקלוע לתוך חישוק",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "לול",
+      "clue": "השטח המגודר שבו התרנגולות מסתובבות ומטילות ביצים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "הורס",
+      "clue": "שובר והופך משהו שהיה שלם למשהו שבור שאינו עובד יותר",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "נפל",
+      "clue": "איבד שיווי משקל וקרס למטה על הרצפה",
+      "isStarWord": false
+    }
+  ]
+}

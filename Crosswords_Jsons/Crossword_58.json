@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 58",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "גלישה",
+      "clue": "החלקה מהירה על גלי הים או על שלג",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "לשונ",
+      "clue": "האיבר הגמיש והוורוד בתוך הפה שעוזר לנו לטעום ולדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "שונא",
+      "clue": "מרגיש רגש חזק ורע כלפי מישהו אחר ואינו סובל את נוכחותו",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "מסרק",
+      "clue": "כלי עם שיניים שעוברים איתו על השיער כדי להתיר קשרים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "סקרנות",
+      "clue": "הרצון החזק לדעת, לשאול שאלות ולגלות דברים חדשים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "תעודה",
+      "clue": "גיליון ציונים שמקבלים בסוף השנה מבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "שחר",
+      "clue": "הרגעים הראשונים של הבוקר, עוד לפני שהשמש זרחה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "קמח",
+      "clue": "האבקה הלבנה שנוצרת מטחינת חיטה ומשמשת לאפייה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "מתכת",
+      "clue": "חומר חזק ונוקשה במיוחד, כמו נחושת, שממנו בונים מכוניות",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "רכב",
+      "clue": "מכונית שזזה בעזרת מנוע וארבעה גלגלים",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "נהר",
+      "clue": "ערוץ מים רחב שזורם כל השנה לעבר הים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 6,
+      "startCol": 1,
+      "word": "כרכרה",
+      "clue": "עגלת נוסעים מפוארת מהעבר שסוסים סוחבים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 6693",
+  "bg": "bg-[#228B22]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אישור",
+      "clue": "הסכמה רשמית לעשות משהו שביקשנו",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "שור",
+      "clue": "הזכר של הפרה שעובד קשה במשיכת עגלות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "כרטיס",
+      "clue": "פתק קטן שקונים כדי להיכנס לקולנוע או לרכבת",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "מטר",
+      "clue": "יחידת מידה לאורך השווה למאה סנטימטרים שלמים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "באר",
+      "clue": "בור עמוק שחופרים באדמה כדי להוציא מים לשתייה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "אובדנ",
+      "clue": "התחושה העצובה כשחפץ יקר נאבד או כשמישהו חסר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "רצ",
+      "clue": "התקדם מהר מאוד בעזרת הרגליים שלו בניסיון להגיע ראשון או לנצח בתחרות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "צבעי",
+      "clue": "בעל המקצוע שמגיע עם מברשת לגוון את הקירות בבית לקראת החג",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "בטנ",
+      "clue": "האזור האמצעי של הגוף שבו נמצא הפופיק",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "כביש",
+      "clue": "משטח סלול באספלט שעליו נוסעות כל המכוניות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "שמפו",
+      "clue": "נוזל ריחני המיועד לקרצוף ולניקיון של השיער במקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "מכנס",
+      "clue": "החלק של הבגד שלובשים על הרגליים מהמותן ומטה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "תר",
+      "clue": "טייל בעולם, סייר וחקר מקומות חדשים בטבע שעוד לא הכיר לפני כן",
+      "isStarWord": true
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "שוקולד",
+      "clue": "ממתק אהוב עשוי מקקאו",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 2819",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "חומר",
+      "clue": "הדבר שממנו עשויים חפצים, כמו עץ, מתכת או זכוכית",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "טרקטור",
+      "clue": "רכב חקלאי שחורש את השדה וסוחב עגלות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "ריח",
+      "clue": "הניחוח הטוב שעולה ממאפייה ושאנחנו חשים בו דרך האף",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "טועמ",
+      "clue": "בודק את טיבו של התבשיל כשהוא מניח אותו על הלשון ומעביר ביקורת",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "מטבח",
+      "clue": "החדר בבית שבו ההורים מכינים את הארוחות החמות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "ברזימ",
+      "clue": "מתקנים שפותחים כדי למזוג מים לכיור",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "עמוד",
+      "clue": "דף אחד מתוך ספר קריאה או מחברת שאפשר להפוך",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "עמק",
+      "clue": "האזור השטוח והנמוך שמשתרע בין הרים גבוהים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "דרכימ",
+      "clue": "כבישים ושבילים שאפשר ללכת או לנסוע בהם",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "נקי",
+      "clue": "שטוף היטב וללא כתמים או טיפת לכלוך",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "נחש",
+      "clue": "זוחל חסר רגליים שלעיתים מכיש כשמרגיזים אותו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "קד",
+      "clue": "התכופף קדימה עם הראש והגוף כדי להראות כבוד עמוק לאדם שעומד מולו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "שירימ",
+      "clue": "קטעי קול שיש בהם מילים ונעימה שכיף לזמזם",
+      "isStarWord": true
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 6282",
+  "bg": "bg-[#228B22]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אפרוח",
+      "clue": "התינוק הצהוב והחמוד של התרנגולת שבקע מהביצה",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אבנט",
+      "clue": "חגורה עשויה מבד שנקשרת סביב הבגד",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "אחרונ",
+      "clue": "מי שנמצא בסוף התור, ההפך מראשון",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "ארצ",
+      "clue": "מדינה שלמה, שטח עצום שעם גר בו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "צד",
+      "clue": "אחד מהכיוונים במרחב שלנו, למשל ימין, שמאל, קדימה או אחורה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "חגורה",
+      "clue": "רצועה ששמים סביב המותניים כדי להחזיק את המכנסיים",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "צר",
+      "clue": "מקום דחוק, צפוף ולא רחב שקשה מאוד לעבור דרכו",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "חוטב",
+      "clue": "אדם שלוקח גרזן וחותך את ענפי העצים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "טועמ",
+      "clue": "בודק את טיבו של התבשיל כשהוא מניח אותו על הלשון ומעביר ביקורת",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "נשר",
+      "clue": "עוף דורס עצום ממדים עם ראש קירח",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "שונא",
+      "clue": "מרגיש רגש חזק ורע כלפי מישהו אחר ואינו סובל את נוכחותו",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "אחו",
+      "clue": "שדה ירוק עם דשא שאליו יוצאות הפרות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "צבע",
+      "clue": "התכונה החזותית של הדברים סביבנו, למשל אדום או צהוב",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "מלוואח",
+      "clue": "מאפה עלים מטוגן ועגול שמקורו במטבח התימני",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 90",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "חרוז",
+      "clue": "שתי מילים שנגמרות בדיוק באותו צליל בסוף השורה בשיר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "קופסה",
+      "clue": "כלי קשיח מקרטון או פלסטיק שאפשר לאחסן בתוכו צעצועים",
+      "isStarWord": true
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "קד",
+      "clue": "התכופף קדימה עם הראש והגוף כדי להראות כבוד עמוק לאדם שעומד מולו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "הליכה",
+      "clue": "תנועה רגועה ברגל ממקום למקום",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "רוקד",
+      "clue": "מזיז את גופו באופן אמנותי לפי קצב השיר או המנגינה שמתנגנת",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "צבעי",
+      "clue": "בעל המקצוע שמגיע עם מברשת לגוון את הקירות בבית לקראת החג",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "דלי",
+      "clue": "כלי קיבול מפלסטיק שאיתו שואבים מים לניקיון",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "תנור",
+      "clue": "המכשיר הגדול במטבח שפולט חום חזק ואופים בו חלות ופשטידות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "יפה",
+      "clue": "נראה נהדר ומוצא חן בעינינו, אסתטי מאוד",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "יקר",
+      "clue": "מוצר שעולה הרבה מאוד שקלים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "פנקייק",
+      "clue": "מאפה שטוח ומתוק שמטגנים במחבת ואוכלים עם סירופ מייפל",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "רעב",
+      "clue": "הרגיש שהבטן מקרקרת והוא מוכרח לאכול ארוחה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "עז",
+      "clue": "חיית משק צמחונית בעלת קרניים וזקן שנותנת לנו חלב ופועה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "סריגה",
+      "clue": "יצירת סוודר או צעיף בעזרת מסרגות וחוט צמר",
+      "isStarWord": false
+    }
+  ]
+}

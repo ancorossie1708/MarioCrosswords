@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 66",
+  "bg": "bg-[#1E90FF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "בחירה",
+      "clue": "קבלת החלטה וסימון אפשרות אחת מתוך כמה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "רואה",
+      "clue": "משתמש בעיניים שלו כדי לקלוט תמונות ממה שמתרחש סביבו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "אנחנו",
+      "clue": "המילה שאומרים כשמדברים על עצמי ועל עוד אנשים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "חסה",
+      "clue": "הירק העגול עם העלים הירוקים והפריכים שאוכלים בסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "תחפושת",
+      "clue": "בגד מיוחד שלובשים כדי להיראות כמו דמות אחרת, בעיקר בפורים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "חובה",
+      "clue": "משימה שאין ברירה ומוכרחים לבצע, כמו שיעורי בית",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "ריח",
+      "clue": "הניחוח הטוב שעולה ממאפייה ושאנחנו חשים בו דרך האף",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "פעולה",
+      "clue": "משהו שעושים, כמו משימה או מפגש בצופים",
+      "isStarWord": true
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "לילה",
+      "clue": "הזמן שבו השמש שוקעת, נהיה חושך והולכים לישון",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "תו",
+      "clue": "סימן קטן שכתוב בחוברת המוזיקה ומורה לפסנתרן בדיוק איזה צליל לנגן בקלידים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "כבד",
+      "clue": "חפץ שהמשקל שלו רב וקשה להרים אותו מהרצפה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 4,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "ביתנ",
+      "clue": "מבנה קטן המשמש לשמירה או להצגת דברים ביריד",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "הוד",
+      "clue": "מראה מלכותי ומרשים מאוד המעורר כבוד",
+      "isStarWord": false
+    }
+  ]
+}

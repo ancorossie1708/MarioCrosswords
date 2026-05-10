@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 85",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "עמ",
+      "clue": "קבוצה ענקית של בני אדם שיש להם מדינה, שפה והיסטוריה משותפת שמחברת ביניהם",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "מקור",
+      "clue": "הפה הקשה והמחודד של ציפורים שאיתו הן מנקרות גרגרים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "אטמ",
+      "clue": "סתם את החור ומנע מהאוויר או מהמים לברוח",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "פנ",
+      "clue": "מכשיר חשמלי שמוציא אוויר חם ובעזרתו מייבשים את השיער הרטוב אחרי מקלחת",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "חטא",
+      "clue": "מעשה שלילי ורע שאסור לעשות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "קרטונ",
+      "clue": "חומר עבה וקשיח דמוי נייר שממנו מכינים אריזות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "צרכניה",
+      "clue": "חנות מכולת קטנה, כמו שיש בקיבוץ או במושב",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "אורח",
+      "clue": "אדם שמגיע לבקר אותנו בבית או בבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "חכמות",
+      "clue": "ילדות או נשים נבונות שמבינות נושאים מהר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "גלגל",
+      "clue": "החלק העגול במכונית או באופניים שמאפשר להם לנסוע",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "כלל",
+      "clue": "חוק או הוראה קבועה בכיתה שצריך לעקוב אחריה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "נושמ",
+      "clue": "מכניס אוויר לריאות ומוציא אותו באופן טבעי כדי לחיות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "גפנ",
+      "clue": "הצמח המטפס שעליו גדלים אשכולות ענבים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "פסנתר",
+      "clue": "כלי נגינה גדול עם קלידים שחורים ולבנים",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 62",
+  "bg": "bg-[#8B0000]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שותפה",
+      "clue": "חברה שמבצעת איתנו עבודה יחד ומתחלקת באחריות",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "ברכ",
+      "clue": "המפרק באמצע הרגל שמאפשר לנו לקפל אותה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "כותב",
+      "clue": "משרבט אותיות ומילים בעזרת עיפרון או עט על דף הנייר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "שוטר",
+      "clue": "מי שאחראי לאכוף את החוקים, לובש מדים כחולים ורושם דוחות לממהרים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "קר",
+      "clue": "התחושה המקפיאה בחורף שגורמת לנו לרעוד ולמהר ללבוש מעיל עבה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "תסרוקת",
+      "clue": "דרך יפה לסדר ולעצב את השיער",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "באר",
+      "clue": "בור עמוק שחופרים באדמה כדי להוציא מים לשתייה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "אפונה",
+      "clue": "ירק ירוק ועגול שנראה כמו כדור קטן",
+      "isStarWord": true
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "הבטחה",
+      "clue": "התחייבות לעשות משהו שאמרנו שנעשה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "בינה",
+      "clue": "שכל, חוכמה והיכולת להבין דברים מסובכים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "גופ",
+      "clue": "המעטפת של כל איברי האדם יחד מהראש עד הרגליים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "בהלה",
+      "clue": "פחד פתאומי שגורם לנו לקפוץ או לצעוק",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "זהב",
+      "clue": "המתכת היקרה והנוצצת שממנה מכינים תכשיטים וכתרים",
+      "isStarWord": false
+    }
+  ]
+}

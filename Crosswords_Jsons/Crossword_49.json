@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 2721",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "צייר",
+      "clue": "האמן שמחזיק מכחול ויוצר יצירות מופת צבעוניות על דפי קנבס",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "שלג",
+      "clue": "פתיתי הקרח הרכים והלבנים שמכסים את החרמון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "חגיגה",
+      "clue": "מסיבה גדולה ושמחה לכבוד יום הולדת או חג",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "חוג",
+      "clue": "שיעור העשרה שאליו הולכים אחר הצהריים כמו ג'ודו",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "היכל",
+      "clue": "אולם ענק ומפואר מאוד שמיועד למופעים או לאירועים חשובים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "גדיימ",
+      "clue": "התינוקות הצעירים של העזים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "מסעדה",
+      "clue": "מקום שאליו הולכים כדי להזמין אוכל טעים שמישהו אחר הכין",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "כרמ",
+      "clue": "החלקה החקלאית שבה מגדלים המון שורות של ענבים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "תוכי",
+      "clue": "ציפור צבעונית שיודעת לצייץ ולפעמים מסוגלת לחקות מילים של בני אדם",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "דמות",
+      "clue": "הגיבור שמככב בסיפור, בסרט או בסדרת טלוויזיה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "שנה",
+      "clue": "פרק הזמן שלוקח לכדור הארץ להקיף את השמש",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "לוויתנ",
+      "clue": "יונק ימי עצום, החיה הגדולה ביותר בעולם שחיה בים",
+      "isStarWord": false
+    }
+  ]
+}

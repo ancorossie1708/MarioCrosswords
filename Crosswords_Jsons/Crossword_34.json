@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 7703",
+  "bg": "bg-[#8B0000]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "פיתה",
+      "clue": "מאפה עגול ורך עם כיס בפנים שלתוכו מכניסים פלאפל או שווארמה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "יתוש",
+      "clue": "חרק קטן ומעופף שעוקץ בקיץ ומשאיר סימן מגרד",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "תפוח",
+      "clue": "פרי עגול וקשה, יכול להיות אדום או ירוק, שנהוג לטבול בדבש בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "סירה",
+      "clue": "כלי תחבורה קטן שצף מעל פני הים ויכול להיות מופעל ממשוטים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "הפסקה",
+      "clue": "זמן קצר של מנוחה ומשחק בין השיעורים בבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "פעולה",
+      "clue": "משהו שעושים, כמו משימה או מפגש בצופים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "המצאה",
+      "clue": "יצירת מכשיר או רעיון חדש שאיש לא חשב עליו קודם",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "דקל",
+      "clue": "העץ הגבוה שבראשו צומחים העלים דמויי המניפה והתמרים",
+      "isStarWord": true
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "קצ",
+      "clue": "הסוף המוחלט של התקופה, הרגע שבו משהו נגמר לתמיד ולא יחזור על עצמו",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "פרק",
+      "clue": "אחד החלקים שמחלקים סיפור ארוך למקטעים נוחים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "צבי",
+      "clue": "חיה עדינה וזריזה עם קרניים שרצה באזורי הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "בנה",
+      "clue": "הקים מבנה חדש מלבנים או מקוביות",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "קלמארי",
+      "clue": "מאכל ים טעים שמכינים מדיונון",
+      "isStarWord": false
+    }
+  ]
+}

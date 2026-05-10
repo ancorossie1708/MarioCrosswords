@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 87",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "חסה",
+      "clue": "הירק העגול עם העלים הירוקים והפריכים שאוכלים בסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "חומ",
+      "clue": "הצבע הכהה שמזכיר שוקולד או אדמה רטובה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "הזמנה",
+      "clue": "בקשה ממישהו לבוא להתארח או להשתתף במסיבה",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "יתוש",
+      "clue": "חרק קטן ומעופף שעוקץ בקיץ ומשאיר סימן מגרד",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "שותפה",
+      "clue": "חברה שמבצעת איתנו עבודה יחד ומתחלקת באחריות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "משקולת",
+      "clue": "חפץ כבד מאוד שנעזרים בו לאימון וחיזוק השרירים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "זוהר",
+      "clue": "אור חזק, מנצנץ ומבריק",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "זמזמ",
+      "clue": "השמיע רעש מתמשך כמו של דבורה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "גמל",
+      "clue": "החיה עם הדבשת שיודעת ללכת במדבר בלי לשתות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "תו",
+      "clue": "סימן קטן שכתוב בחוברת המוזיקה ומורה לפסנתרן בדיוק איזה צליל לנגן בקלידים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 4,
+      "word": "מסוק",
+      "clue": "כלי טיס שמרחף באוויר בעזרת להבים ארוכים המסתובבים על הגג שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "קר",
+      "clue": "התחושה המקפיאה בחורף שגורמת לנו לרעוד ולמהר ללבוש מעיל עבה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "מכחול",
+      "clue": "כלי דק עם שערות בקצה שבעזרתו הצייר מורח צבע",
+      "isStarWord": false
+    }
+  ]
+}

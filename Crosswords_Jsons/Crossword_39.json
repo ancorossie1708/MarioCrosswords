@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 7834",
+  "bg": "bg-[#FFD700]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רשימה",
+      "clue": "שורות של מילים שאנחנו כותבים כדי לא לשכוח מה לקנות",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "צרעה",
+      "clue": "חרק מעופף בצבעי צהוב ושחור שעלול לעקוץ אם מכעיסים אותו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "רואה",
+      "clue": "משתמש בעיניים שלו כדי לקלוט תמונות ממה שמתרחש סביבו",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "טפטפ",
+      "clue": "הוריד מים או נוזל בטיפות קטנות, איטיות ורצופות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "גניבה",
+      "clue": "לקיחת חפץ ממישהו אחר בסתר ובלי רשות",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "פלאפונ",
+      "clue": "מכשיר קטן ונייד שאפשר להתקשר ממנו ולשחק בו משחקים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "מחט",
+      "clue": "כלי מתכת דקיק וחד שבקצהו חור להשחלת חוט תפירה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "רוח",
+      "clue": "משב האוויר החזק שאנחנו מרגישים בחוץ בסערה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "הלבשה",
+      "clue": "לשים בגדים על מישהו אחר, כמו על תינוק",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "שיר",
+      "clue": "מילים המחוברות למנגינה שזמרים שרים בהופעה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "לומד",
+      "clue": "מקבל ידע חדש על חומר או נושא שלא הכיר לפני כן",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "קר",
+      "clue": "התחושה המקפיאה בחורף שגורמת לנו לרעוד ולמהר ללבוש מעיל עבה",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 79",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אלפ",
+      "clue": "האות שפותחת את האותיות בעברית",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "לפת",
+      "clue": "ירק שורש בצבע לבן-סגול שמוסיפים למרק",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "רופא",
+      "clue": "האיש שאליו הולכים כשאנחנו מרגישים חולים כדי שייתן לנו תרופה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "בכה",
+      "clue": "הזיל דמעות בגלל כאב או עלבון",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "מדרכה",
+      "clue": "שביל מרוצף לצד הכביש המיועד להולכי רגל",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "פיתה",
+      "clue": "מאפה עגול ורך עם כיס בפנים שלתוכו מכניסים פלאפל או שווארמה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "עיתונ",
+      "clue": "דפים מודפסים שמחלקים כל בוקר וכוללים כתבות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "דשא",
+      "clue": "המשטח הירוק שצומח בגינה וכיף לשחק עליו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "יתוש",
+      "clue": "חרק קטן ומעופף שעוקץ בקיץ ומשאיר סימן מגרד",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "דרומ",
+      "clue": "הכיוון שאליו נוסעים בדרך כלל כדי להגיע לאילת",
+      "isStarWord": true
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "תוכנית",
+      "clue": "סדרה שרואים בטלוויזיה, או תכנון מסודר של מה שעומדים לעשות",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "אנשימ",
+      "clue": "בני אדם, חבורה גדולה של בנים ובנות",
+      "isStarWord": false
+    }
+  ]
+}

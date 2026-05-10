@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 5027",
+  "bg": "bg-[#1E90FF]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "עיפרונ",
+      "clue": "כלי כתיבה מעץ שמשאיר רישום אפור שאפשר למחוק",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "עצמ",
+      "clue": "אחד החלקים הקשים והלבנים שמרכיבים את השלד בגוף",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "נוצה",
+      "clue": "החלק הקל והרך שמכסה את הגוף של עופות ועוזר להם לעוף",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "נמלה",
+      "clue": "חרק שחור קטנטן שהולך בשיירה ומצליח לסחוב פירורים כבדים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "לחנ",
+      "clue": "המנגינה שמתאימים למילים כדי שיהפכו לשיר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "יצא",
+      "clue": "עזב את הבית והלך החוצה לאוויר הפתוח",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "אנחנו",
+      "clue": "המילה שאומרים כשמדברים על עצמי ועל עוד אנשים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "שוקו",
+      "clue": "משקה חום ומתוק שלרוב מכינים מחימום של חלב ואבקת קקאו",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "שמנ",
+      "clue": "הנוזל הצהבהב שאיתו מטגנים צ'יפס או חביתה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "דמעה",
+      "clue": "טיפת מים מלוחה וקטנה שזולגת מהעין החוצה כשאנחנו בוכים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "אחרימ",
+      "clue": "אנשים שונים, מישהו שהוא לא אני",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "עד",
+      "clue": "האדם שנכח באירוע כלשהו ומספר לכולם או לשופט מה בדיוק קרה שם",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "וידאו",
+      "clue": "סרטון או קליפ שאפשר לראות במסך הטלוויזיה",
+      "isStarWord": true
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    }
+  ]
+}

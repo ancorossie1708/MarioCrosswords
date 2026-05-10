@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 68",
+  "bg": "bg-[#87CEEB]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "אדמה",
+      "clue": "הקרקע החומה שעליה אנחנו דורכים ושבה שותלים עצים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "דולפינ",
+      "clue": "יונק ימי חכם וחברותי שאוהב לקפוץ מעל הגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "חמוצה",
+      "clue": "בעלת טעם עוקצני, כמו הטעם שיש ללימון",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "לבבות",
+      "clue": "האיברים שפועמים בגוף שלנו ומזרימים את הדם",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "דרומ",
+      "clue": "הכיוון שאליו נוסעים בדרך כלל כדי להגיע לאילת",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "בדל",
+      "clue": "הקצה הקטן שנשאר ממשהו שנשרף או נחתך",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "קיצ",
+      "clue": "העונה שבה לא הולכים לבית הספר והולכים לים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "חלקה",
+      "clue": "אזור או שטח אדמה פנוי בטבע שמוכן לשתילה של צמחים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "נעל",
+      "clue": "פריט הלבוש ששרוכים ועוטפים איתו את כף הרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "עמ",
+      "clue": "קבוצה ענקית של בני אדם שיש להם מדינה, שפה והיסטוריה משותפת שמחברת ביניהם",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 4,
+      "word": "קלמר",
+      "clue": "תיק קטן לתלמידים שבתוכו מאחסנים עפרונות, טושים ומחק",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "רש",
+      "clue": "אדם עני וחסר כל שאין לו פרוטה בכיס וצריך עזרה",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "אפונה",
+      "clue": "ירק ירוק ועגול שנראה כמו כדור קטן",
+      "isStarWord": false
+    }
+  ]
+}

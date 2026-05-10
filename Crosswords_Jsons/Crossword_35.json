@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 8594",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שלומ",
+      "clue": "המילה הידידותית שאנחנו אומרים לחברים כשאנחנו רק פוגשים אותם",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "מלמד",
+      "clue": "עוזר לאנשים אחרים להבין איך עושים משהו בצורה ברורה ונכונה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "שד",
+      "clue": "יצור מפחיד ודמיוני מהאגדות שלפעמים מגשים משאלות כשהוא יוצא מתוך מנורת קסמים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "לבד",
+      "clue": "להיות במקום ללא אף חבר או אדם אחר בסביבה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "מכתב",
+      "clue": "פתק ארוך שרושמים למישהו ושולחים אליו במעטפה בדואר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "מטרייה",
+      "clue": "חפץ שנפתח ומגן עלינו כדי שלא נרטב בחורף",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "מימ",
+      "clue": "הנוזל השקוף שאנחנו חייבים לשתות כדי לחיות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "דאגות",
+      "clue": "מחשבות מטרידות שגורמות לנו לפחד או לחשוש",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "גמדימ",
+      "clue": "יצורים קטנטנים מהאגדות עם כובע מחודד",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "טרפ",
+      "clue": "תפס חיה אחרת ואכל אותה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "חידה",
+      "clue": "שאלה מתחכמת או מבלבלת שצריך לחשוב היטב כדי לפצח את התשובה שלה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "עיט",
+      "clue": "עוף דורס עם ראייה חדה במיוחד שדואה בגובה רב",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "הזמנה",
+      "clue": "בקשה ממישהו לבוא להתארח או להשתתף במסיבה",
+      "isStarWord": false
+    }
+  ]
+}

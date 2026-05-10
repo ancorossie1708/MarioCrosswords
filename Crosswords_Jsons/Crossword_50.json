@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9026",
+  "bg": "bg-[#FFD700]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אכל",
+      "clue": "הכניס מזון לפה ולעס אותו היטב",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "אולפנ",
+      "clue": "חדר מקצועי שבו מקליטים שירים או מצלמים תוכניות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "אשד",
+      "clue": "זרם מים חזק שנופל ממקום גבוה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "פיתה",
+      "clue": "מאפה עגול ורך עם כיס בפנים שלתוכו מכניסים פלאפל או שווארמה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "פנקס",
+      "clue": "מחברת קטנה עם דפים שנוח להכניס לכיס ולרשום בה הערות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "למד",
+      "clue": "הקשיב בשיעור ורכש ידע חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "מרחק",
+      "clue": "הדרך שצריך לעבור ממקום אחד אל מקום אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "מתקנ",
+      "clue": "מסדר או מדביק משהו שהתקלקל, כמו צעצוע, כדי שיעבוד שוב כמו חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "אנחנו",
+      "clue": "המילה שאומרים כשמדברים על עצמי ועל עוד אנשים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "בחינה",
+      "clue": "מבחן שעושים בבית הספר כדי לבדוק מה למדנו",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "כנפ",
+      "clue": "החלק בגוף של הציפור שזז ומאפשר לה לעוף",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "פנ",
+      "clue": "מכשיר חשמלי שמוציא אוויר חם ובעזרתו מייבשים את השיער הרטוב אחרי מקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "פר",
+      "clue": "הזכר הגדול של הפרה שחי ברפת ואוכל חציר",
+      "isStarWord": true
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "צבעוני",
+      "clue": "פרח יפה שפורח בהולנד במגוון גוונים, או ההפך משחור לבן",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 3945",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אשד",
+      "clue": "זרם מים חזק שנופל ממקום גבוה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "רואה",
+      "clue": "משתמש בעיניים שלו כדי לקלוט תמונות ממה שמתרחש סביבו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "פסטה",
+      "clue": "מאכל איטלקי מבצק מבושל כמו מקרוני או ספגטי שאוכלים עם רוטב",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "פרי",
+      "clue": "האוכל המתוק והעסיסי שצומח על ענפי העצים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "שמפו",
+      "clue": "נוזל ריחני המיועד לקרצוף ולניקיון של השיער במקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "ארטיק",
+      "clue": "ממתק קפוא ומתוק על מקל שמרענן בקיץ",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "קריסטל",
+      "clue": "זכוכית עבה, נוצצת ויקרה, סוג של גביש מבריק",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "מצה",
+      "clue": "המאכל השטוח והפריך שאוכלים בליל הסדר במקום לחמניה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "ציפוי",
+      "clue": "השכבה החיצונית שעוטפת משהו, כמו שוקולד על סופגניה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "זוהר",
+      "clue": "אור חזק, מנצנץ ומבריק",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "כתר",
+      "clue": "התכשיט היקר והזהוב שמונח על ראשו של המלך",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 5,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "תמונה",
+      "clue": "ציור או צילום ממוסגר שתולים על הקיר ליופי",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "עט",
+      "clue": "מכשיר הכתיבה שמשאיר דיו על הדף ואי אפשר להעלים אותו עם מחק",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "רז",
+      "clue": "מילה נרדפת לסוד קסום או לדבר נסתר שאסור בשום אופן לגלות לאף אחד",
+      "isStarWord": false
+    }
+  ]
+}

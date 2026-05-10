@@ -1,0 +1,1 @@
+{"name":"Bros Crosswords","short_name":"Crosswords","description":"משחק להצלת פיץ","start_url":"./","display":"fullscreen","background_color":"#000000","theme_color":"#000000","lang":"en","scope":"./","icons":[{"src":"./assets/ui/game_icon.png","sizes":"192x192","type":"image/png"},{"src":"./assets/ui/game_icon.png","sizes":"512x512","type":"image/png"}]}

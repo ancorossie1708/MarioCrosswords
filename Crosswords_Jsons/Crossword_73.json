@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 73",
+  "bg": "bg-[#228B22]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "אוהל",
+      "clue": "בית שעשוי מבד ומקלות שמקימים כשיוצאים לישון בטבע",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "הצגות",
+      "clue": "מופעי תיאטרון שבהם שחקנים מופיעים על הבמה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "בלדה",
+      "clue": "שיר קדום המספר סיפור ארוך, לעיתים עצוב",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "דלי",
+      "clue": "כלי קיבול מפלסטיק שאיתו שואבים מים לניקיון",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "עגל",
+      "clue": "הילד הקטנטן והצעיר של הפרה והשור",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "אביונ",
+      "clue": "אדם עני מאוד שאין לו כסף",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "אזהרה",
+      "clue": "הודעה חשובה על סכנה שצריך להיזהר ממנה",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "ארונ",
+      "clue": "רהיט גבוה וסגור עם דלתות שמקפלים ומכניסים אליו בגדים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "אתר",
+      "clue": "המקום שבו נמצאים או המקום שאליו גולשים באינטרנט",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "כדור",
+      "clue": "צעצוע עגול וקופצני שאפשר למסור, לזרוק או לבעוט בו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "רש",
+      "clue": "אדם עני וחסר כל שאין לו פרוטה בכיס וצריך עזרה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "סבלנות",
+      "clue": "היכולת לחכות בשקט וברוגע מבלי לכעוס",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1295",
+  "bg": "bg-[#FFD700]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "חגיגה",
+      "clue": "מסיבה גדולה ושמחה לכבוד יום הולדת או חג",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "יצירה",
+      "clue": "הכנת עבודת אמנות מיוחדת מחומרים שונים כמו פלסטלינה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "נשיקה",
+      "clue": "מגע רך של שפתיים כדי להראות אהבה או להגיד שלום",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "מטבח",
+      "clue": "החדר בבית שבו ההורים מכינים את הארוחות החמות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "יתוש",
+      "clue": "חרק קטן ומעופף שעוקץ בקיץ ומשאיר סימן מגרד",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "בלה",
+      "clue": "הפך לישן ושחוק מרוב שימוש",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "דמעה",
+      "clue": "טיפת מים מלוחה וקטנה שזולגת מהעין החוצה כשאנחנו בוכים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "מצלמ",
+      "clue": "שומר רגעים חשובים באמצעות עדשת הטלפון הנייד שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "אבק",
+      "clue": "הלכלוך החלקיקי ששוקע על הרהיטים כשלא מנקים",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 1,
+      "word": "קו",
+      "clue": "פס דק וארוך שמציירים במחברת על הדף הלבן בעזרת עט וסרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "לפת",
+      "clue": "ירק שורש בצבע לבן-סגול שמוסיפים למרק",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "תר",
+      "clue": "טייל בעולם, סייר וחקר מקומות חדשים בטבע שעוד לא הכיר לפני כן",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "קומקומ",
+      "clue": "מכשיר חשמלי שמרתיחים בו מים להכנת תה או שוקו",
+      "isStarWord": false
+    }
+  ]
+}

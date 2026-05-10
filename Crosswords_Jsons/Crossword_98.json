@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 98",
+  "bg": "bg-[#228B22]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כרכרה",
+      "clue": "עגלת נוסעים מפוארת מהעבר שסוסים סוחבים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "כישלונ",
+      "clue": "חוסר הצלחה במשימה, ההפך מניצחון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "יער",
+      "clue": "שטח ענק מלא בעצים צפופים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "גינות",
+      "clue": "שטחים ירוקים עם פרחים, עצים ודשא",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "גזע",
+      "clue": "עמוד העץ העבה והחום שיוצא מהאדמה ונושא את הענפים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "יושב",
+      "clue": "לא עומד, מניח את גופו על כיסא או שטיח כדי לנוח קצת",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "כבוד",
+      "clue": "התנהגות נעימה והערכה למישהו מבוגר או חשוב",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "כיסא",
+      "clue": "רהיט עם ארבע רגליים ומשענת המיועד לישיבה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "קנ",
+      "clue": "המבנה העגול והיפה מזרדים שענפים שהציפור מכינה לעצמה בין העצים כדי להטיל ביצים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "מתקנ",
+      "clue": "מסדר או מדביק משהו שהתקלקל, כמו צעצוע, כדי שיעבוד שוב כמו חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "מהר",
+      "clue": "בצורה זריזה וקצבית, כמו ריצה של נמר",
+      "isStarWord": true
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "קצפ",
+      "clue": "הבועות הקטנטנות והלבנות שנוצרות משפשוף סבון",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "אישור",
+      "clue": "הסכמה רשמית לעשות משהו שביקשנו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 4858",
+  "bg": "bg-[#8B0000]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "קמח",
+      "clue": "האבקה הלבנה שנוצרת מטחינת חיטה ומשמשת לאפייה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מדד",
+      "clue": "בדק מה האורך של החדר בעזרת סרט מתאים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "ברזל",
+      "clue": "החומר הכי מוכר וחזק בטבע שמשמש לבנייה ולייצור של כלים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "רופא",
+      "clue": "האיש שאליו הולכים כשאנחנו מרגישים חולים כדי שייתן לנו תרופה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "ריח",
+      "clue": "הניחוח הטוב שעולה ממאפייה ושאנחנו חשים בו דרך האף",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": true
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "חיפוש",
+      "clue": "ניסיון לאתר משהו שהלך לאיבוד",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "שוקולד",
+      "clue": "ממתק אהוב עשוי מקקאו",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "חרדונ",
+      "clue": "סוג של זוחל קטן עם זנב שאוהב לעמוד בשמש",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "רוקד",
+      "clue": "מזיז את גופו באופן אמנותי לפי קצב השיר או המנגינה שמתנגנת",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "בנק",
+      "clue": "הבניין השמור שבו אנשים מפקידים את המשכורת שלהם",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "מקדש",
+      "clue": "מקום קדוש ומרשים שנבנה כדי להתפלל בו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "שר",
+      "clue": "אדם בממשלה שאחראי על תחום מסוים וחשוב במדינה, כמו חינוך או ביטחון",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "ריקוד",
+      "clue": "תנועה של הגוף לפי הקצב של המוזיקה",
+      "isStarWord": false
+    }
+  ]
+}

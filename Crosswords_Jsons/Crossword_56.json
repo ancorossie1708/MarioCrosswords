@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 56",
+  "bg": "bg-[#228B22]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אדיבה",
+      "clue": "מתנהגת בנימוס, נחמדה ועוזרת לכולם",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "יצא",
+      "clue": "עזב את הבית והלך החוצה לאוויר הפתוח",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "חופש",
+      "clue": "ימים כיפיים שבהם לא הולכים לבית הספר ואפשר לנוח",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "אחו",
+      "clue": "שדה ירוק עם דשא שאליו יוצאות הפרות",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "השראה",
+      "clue": "רעיון יצירתי שמגיע אלינו פתאום וגורם לנו ליצור",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "אטמ",
+      "clue": "סתם את החור ומנע מהאוויר או מהמים לברוח",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "מפוחית",
+      "clue": "כלי נשיפה קטן שמנגנים בו בעזרת השפתיים ומוציאים צלילים",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "שש",
+      "clue": "המספר הזוגי שבא בדיוק אחרי המספר חמש ולפני המספר שבע",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "פטיש",
+      "clue": "כלי עבודה כבד שבו נעזרים כדי לדפוק חזק על מסמרים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "יבש",
+      "clue": "נטול רטיבות, כמו בגד שעמד הרבה זמן בשמש",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "מטבח",
+      "clue": "החדר בבית שבו ההורים מכינים את הארוחות החמות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "אבטיח",
+      "clue": "פרי קיצי מתוק, ירוק מבחוץ ואדום מבפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 7,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 1,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "תירס",
+      "clue": "צמח זהוב שגדל עם גרגרים צהובים ומתוקים על קלח",
+      "isStarWord": false
+    }
+  ]
+}

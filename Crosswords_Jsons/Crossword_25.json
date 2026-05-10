@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1399",
+  "bg": "bg-[#8B0000]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מיצ",
+      "clue": "משקה סחוט ומרענן שמכינים מתפוזים מתוקים",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מלכ",
+      "clue": "השליט שחובש כתר ויושב על כס המלכות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "חיסונ",
+      "clue": "זריקה קטנה במרפאה שמונעת מאיתנו לחלות במחלות קשות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "יללה",
+      "clue": "הקול הממושך והגבוה שמשמיעים חתולי רחוב או תנים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "הסכמה",
+      "clue": "כשאנחנו אומרים \"כן\" ותומכים בדעה של מישהו",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "כרטיס",
+      "clue": "פתק קטן שקונים כדי להיכנס לקולנוע או לרכבת",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "צעיפ",
+      "clue": "פיסת בד ארוכה שעוטפים סביב הצוואר כדי שיהיה חם ונעים בחורף",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "הרימ",
+      "clue": "האזורים הכי גבוהים בטבע, עשויים סלעים ואדמה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "עורב",
+      "clue": "ציפור שחורה לגמרי וחכמה במיוחד שמשמיעה קול קרקור אופייני",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "מאה",
+      "clue": "המספר העגול שסוגר את הדו-ספרתיים, עשר כפול עשר",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 5,
+      "word": "מגנ",
+      "clue": "כלי פלדה כבד שחיילים החזיקו כדי להדוף חצים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "מנגנונ",
+      "clue": "אוסף של חלקים שפועלים יחד כמו שעון כדי להפעיל מכונה",
+      "isStarWord": false
+    }
+  ]
+}

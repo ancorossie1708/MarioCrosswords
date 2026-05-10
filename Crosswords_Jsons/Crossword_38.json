@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9649",
+  "bg": "bg-[#FFD700]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רופא",
+      "clue": "האיש שאליו הולכים כשאנחנו מרגישים חולים כדי שייתן לנו תרופה",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "אנשימ",
+      "clue": "בני אדם, חבורה גדולה של בנים ובנות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "דאג",
+      "clue": "חשש לשלומו של חבר וקיווה שיהיה בסדר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "איגלו",
+      "clue": "בית עגול שעשוי מלבני קרח ושלג",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "קו",
+      "clue": "פס דק וארוך שמציירים במחברת על הדף הלבן בעזרת עט וסרגל",
+      "isStarWord": true
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "הגה",
+      "clue": "הגלגל במכונית שבעזרתו הנהג פונה ימינה ושמאלה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "תוכי",
+      "clue": "ציפור צבעונית שיודעת לצייץ ולפעמים מסוגלת לחקות מילים של בני אדם",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "תופס",
+      "clue": "לוכד כדור או חפץ אחר שעף לעברו בעזרת שתי הידיים שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "מגבות",
+      "clue": "בדים רכים שמשתמשים בהם כדי להתנגב אחרי המקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "בורג",
+      "clue": "מקל ברזל קטן עם חריצים לאורכו שמסובבים לתוך קיר כדי להחזיק תמונה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "תחת",
+      "clue": "החלק הנמוך ביותר, נמצא למטה ממשהו אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "פנס",
+      "clue": "המכשיר המופעל בסוללות שאנחנו מדליקים כדי לראות בחושך",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "רד",
+      "clue": "פקודת ציווי שדורשת ממישהו לרדת למטה מהמקום הגבוה שבו הוא מטפס",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 1,
+      "word": "קרדיגנ",
+      "clue": "סוודר פתוח שאפשר לרכוס מקדימה בעזרת כפתורים",
+      "isStarWord": false
+    }
+  ]
+}

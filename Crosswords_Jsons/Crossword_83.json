@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 83",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "מאה",
+      "clue": "המספר העגול שסוגר את הדו-ספרתיים, עשר כפול עשר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "ארוכה",
+      "clue": "נמתחת למרחק רב, ההפך מקצרה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "סערה",
+      "clue": "מזג אוויר חורפי וסוער במיוחד עם גשם, רוחות חזקות ולפעמים גם ברקים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 3,
+      "word": "מערות",
+      "clue": "חללים טבעיים וחשוכים בתוך סלעים או הרים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "תזמורת",
+      "clue": "קבוצה גדולה של נגנים המנגנים יחד מול קהל",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "כפפה",
+      "clue": "פריט שמלבישים כדי להגן על כפות הידיים מהקור, ויש בו מקום לכל אצבע",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "פד",
+      "clue": "רפידה רכה ששמים כדי לרכך מכה או כדי להגן היטב על פצע פתוח",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "תוכי",
+      "clue": "ציפור צבעונית שיודעת לצייץ ולפעמים מסוגלת לחקות מילים של בני אדם",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "רעב",
+      "clue": "הרגיש שהבטן מקרקרת והוא מוכרח לאכול ארוחה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "ילד",
+      "clue": "צעיר שעדיין לא הגיע לגיל בגרות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "בוקר",
+      "clue": "החלק הראשון של היום, הזמן שבו קמים לבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "עגל",
+      "clue": "הילד הקטנטן והצעיר של הפרה והשור",
+      "isStarWord": true
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "דרכימ",
+      "clue": "כבישים ושבילים שאפשר ללכת או לנסוע בהם",
+      "isStarWord": false
+    }
+  ]
+}

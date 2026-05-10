@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 86",
+  "bg": "bg-[#1E90FF]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "ירקות",
+      "clue": "צמחים בריאים שאוכלים בסלט, כמו מלפפון וגזר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "תקרה",
+      "clue": "החלק העליון והסגור בחדר, שעליו תולים לרוב את המנורות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "כספ",
+      "clue": "מתכת מבריקה בצבע אפור-לבן שממנה מכינים מטבעות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "חתול",
+      "clue": "חיית מחמד פרוותית עם שפם שאוהבת לגרגר וליילל",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "רופא",
+      "clue": "האיש שאליו הולכים כשאנחנו מרגישים חולים כדי שייתן לנו תרופה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "אצבעונ",
+      "clue": "כיסוי מתכת קטן שתופרת שמה על היד כדי להגן עליה מדקירת מחט",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הפתעה",
+      "clue": "משהו משמח ולא צפוי שקורה פתאום",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "רכב",
+      "clue": "מכונית שזזה בעזרת מנוע וארבעה גלגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "רעב",
+      "clue": "הרגיש שהבטן מקרקרת והוא מוכרח לאכול ארוחה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "יללה",
+      "clue": "הקול הממושך והגבוה שמשמיעים חתולי רחוב או תנים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "ירח",
+      "clue": "הגוף השמימי והלבן שמאיר לנו את הלילה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "חרדונ",
+      "clue": "סוג של זוחל קטן עם זנב שאוהב לעמוד בשמש",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    }
+  ]
+}

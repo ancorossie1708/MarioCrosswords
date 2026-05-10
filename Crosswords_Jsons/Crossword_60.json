@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 60",
+  "bg": "bg-[#1E90FF]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כרוב",
+      "clue": "ירק עגול עם הרבה עלים סגולים או לבנים, נהדר כשהוא חתוך לסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "רקדנ",
+      "clue": "אדם שזז בתיאום לפי קצב המוזיקה בצורה יפה ומרשימה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "בטנ",
+      "clue": "האזור האמצעי של הגוף שבו נמצא הפופיק",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "זאב",
+      "clue": "טורף דומה לכלב שחי ביער בלהקות ונוהג ליילל בלילה",
+      "isStarWord": true
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "אחו",
+      "clue": "שדה ירוק עם דשא שאליו יוצאות הפרות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "נכדות",
+      "clue": "הבנות של הבן או של הבת של סבא וסבתא",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "תרופה",
+      "clue": "סירופ או כדור שהרופא נותן לנו כדי שנרגיש טוב ונבריא",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "אדיבה",
+      "clue": "מתנהגת בנימוס, נחמדה ועוזרת לכולם",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "אנא",
+      "clue": "מילת בקשה שמנומסת להגיד, \"בבקשה\"",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "מלאכ",
+      "clue": "יצור קסום וטוב לב מהשמיים שתמיד שומר עלינו מלמעלה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "מקדש",
+      "clue": "מקום קדוש ומרשים שנבנה כדי להתפלל בו",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "טלסקופ",
+      "clue": "מכשיר אופטי שדרכו מביטים כדי לראות כוכבים רחוקים בחלל",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 2,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    }
+  ]
+}

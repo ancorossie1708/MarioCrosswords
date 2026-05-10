@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9985",
+  "bg": "bg-[#FFD700]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "בית",
+      "clue": "המבנה הפרטי שבו כל משפחה מתגוררת",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "ברח",
+      "clue": "רץ מהר כדי להימלט מסכנה מתקרבת",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "במבה",
+      "clue": "חטיף תירס ובוטנים צהוב ופריך שכל הילדים בישראל אוהבים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "בונה",
+      "clue": "מניח לבנה על לבנה כדי להקים משהו חדש, בין אם זה בניין או ארמון לגו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "בקע",
+      "clue": "נשבר ופיצל את עצמו לשניים",
+      "isStarWord": true
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "חרדונ",
+      "clue": "סוג של זוחל קטן עם זנב שאוהב לעמוד בשמש",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "דברימ",
+      "clue": "חפצים שונים או נושאים שמדברים עליהם",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "עמ",
+      "clue": "קבוצה ענקית של בני אדם שיש להם מדינה, שפה והיסטוריה משותפת שמחברת ביניהם",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "מטרייה",
+      "clue": "חפץ שנפתח ומגן עלינו כדי שלא נרטב בחורף",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "גורל",
+      "clue": "מה שלפי האמונה עתיד לקרות לאדם בחייו",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "גינה",
+      "clue": "חלקה ירוקה עם פרחים ודשא ליד הבית שאפשר לשחק בה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "צבר",
+      "clue": "השיח הקוצני ממנו צומחות סברס מתוקות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "צמ",
+      "clue": "הפסיק לחלוטין לאכול ולשתות במהלך יום הכיפורים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "בחינה",
+      "clue": "מבחן שעושים בבית הספר כדי לבדוק מה למדנו",
+      "isStarWord": false
+    }
+  ]
+}

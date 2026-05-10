@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 81",
+  "bg": "bg-[#FFD700]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "חכה",
+      "clue": "המתין לאוטובוס בסבלנות עד שיגיע",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "כלבימ",
+      "clue": "חיות מחמד נאמנות שנובחות ושומרות על הבית",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "אשפ",
+      "clue": "קוסם מיומן או מישהו שמצטיין במשהו בצורה בלתי רגילה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "חלילונ",
+      "clue": "כלי נגינה צינורי וקצר שמנשפים לתוכו כדי להפיק צלילים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "כיסא",
+      "clue": "רהיט עם ארבע רגליים ומשענת המיועד לישיבה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "רש",
+      "clue": "אדם עני וחסר כל שאין לו פרוטה בכיס וצריך עזרה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "פרי",
+      "clue": "האוכל המתוק והעסיסי שצומח על ענפי העצים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "סליחה",
+      "clue": "המילה שאומרים כשמצטערים על משהו רע שעשינו",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "השראה",
+      "clue": "רעיון יצירתי שמגיע אלינו פתאום וגורם לנו ליצור",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "שוקו",
+      "clue": "משקה חום ומתוק שלרוב מכינים מחימום של חלב ואבקת קקאו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "מקל",
+      "clue": "חתיכת עץ ארוכה ודקה שאפשר לצעוד איתה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 1,
+      "word": "קורא",
+      "clue": "מבין מה משמעות האותיות שמולו בספר או בשלט הרחוב שמעליו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": true
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "הצגה",
+      "clue": "מופע תיאטרון שבו אנשים מופיעים על הבמה",
+      "isStarWord": false
+    }
+  ]
+}

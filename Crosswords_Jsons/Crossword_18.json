@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 9589",
+  "bg": "bg-[#87CEEB]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "גבורה",
+      "clue": "אומץ לב יוצא דופן מול סכנה",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "גבעה",
+      "clue": "הר קטן ונמוך שאפשר לטפס עליו בקלות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "חרב",
+      "clue": "כלי נשק ארוך וחד מפלדה שאבירים נלחמו בו",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "דרומ",
+      "clue": "הכיוון שאליו נוסעים בדרך כלל כדי להגיע לאילת",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "מעילונ",
+      "clue": "בגד עליון קליל שלובשים כשמתחיל להיות קצת קריר בחוץ",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "מלמד",
+      "clue": "עוזר לאנשים אחרים להבין איך עושים משהו בצורה ברורה ונכונה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "רגל",
+      "clue": "האיבר הארוך שבעזרתו אנחנו יכולים לרוץ וללכת",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "גנבות",
+      "clue": "מעשים אסורים של לקיחת רכוש ללא רשות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "מכנס",
+      "clue": "החלק של הבגד שלובשים על הרגליים מהמותן ומטה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "צבע",
+      "clue": "התכונה החזותית של הדברים סביבנו, למשל אדום או צהוב",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "צד",
+      "clue": "אחד מהכיוונים במרחב שלנו, למשל ימין, שמאל, קדימה או אחורה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "בוסתנ",
+      "clue": "גן מקסים מלא בעצי פרי",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "תו",
+      "clue": "סימן קטן שכתוב בחוברת המוזיקה ומורה לפסנתרן בדיוק איזה צליל לנגן בקלידים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "יער",
+      "clue": "שטח ענק מלא בעצים צפופים",
+      "isStarWord": false
+    }
+  ]
+}

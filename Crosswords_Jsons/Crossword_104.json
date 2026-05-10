@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 104",
+  "bg": "bg-[#8B0000]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "זריחה",
+      "clue": "הרגע בבוקר שבו השמש עולה בשמיים ומאירה את העולם",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "זהב",
+      "clue": "המתכת היקרה והנוצצת שממנה מכינים תכשיטים וכתרים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "הקמה",
+      "clue": "יצירה ובנייה של מבנה או ארגון חדש",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "בוכה",
+      "clue": "מוריד דמעות מתוך העיניים בעקבות עצב עמוק או מכה כואבת שקיבל",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 1,
+      "word": "ורד",
+      "clue": "הפרח האדום והרומנטי שיש לו גם קוצים על הגבעול",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "מטרייה",
+      "clue": "חפץ שנפתח ומגן עלינו כדי שלא נרטב בחורף",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הורימ",
+      "clue": "אבא ואמא שמגדלים אותנו",
+      "isStarWord": true
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הדק",
+      "clue": "הידית הקטנה ברובה שלוחצים עליה כדי לירות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "מטרה",
+      "clue": "היעד שאנחנו שואפים אליו ומנסים בכל הכוח לפגוע בו",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "הגה",
+      "clue": "הגלגל במכונית שבעזרתו הנהג פונה ימינה ושמאלה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "גדיימ",
+      "clue": "התינוקות הצעירים של העזים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 2,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "זהות",
+      "clue": "הפרטים שמייחדים אותנו, כמו שם מלא ומספר רשמי",
+      "isStarWord": false
+    }
+  ]
+}

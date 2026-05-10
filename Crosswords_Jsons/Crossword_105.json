@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 105",
+  "bg": "bg-[#228B22]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "חלוק",
+      "clue": "בגד נוח ורחב שלובשים לפעמים אחרי שיוצאים מהמקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "אורח",
+      "clue": "אדם שמגיע לבקר אותנו בבית או בבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "אמת",
+      "clue": "דבר נכון, המציאות כפי שהיא, ההפך משקר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "חללית",
+      "clue": "כלי רכב משוכלל שטס גבוה אל הכוכבים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "אפרוח",
+      "clue": "התינוק הצהוב והחמוד של התרנגולת שבקע מהביצה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "לחמ",
+      "clue": "מאפה מקמח שהוכנס לתנור ומשמש להכנת כריכים",
+      "isStarWord": true
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "רוקד",
+      "clue": "מזיז את גופו באופן אמנותי לפי קצב השיר או המנגינה שמתנגנת",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "ארנב",
+      "clue": "בעל חיים קטן, מהיר וקופצני, שלרוב אוהב לאכול גזר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "חילזונ",
+      "clue": "בעל חיים איטי שהולך עם הבית שלו על הגב ומשאיר שובל לח",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 1,
+      "word": "יומ",
+      "clue": "שעות האור שבהן אנחנו ערים, ההפך מלילה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "בקע",
+      "clue": "נשבר ופיצל את עצמו לשניים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "קד",
+      "clue": "התכופף קדימה עם הראש והגוף כדי להראות כבוד עמוק לאדם שעומד מולו",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "זמרות",
+      "clue": "נשים שהמקצוע שלהן הוא לשיר מול קהל",
+      "isStarWord": false
+    }
+  ]
+}

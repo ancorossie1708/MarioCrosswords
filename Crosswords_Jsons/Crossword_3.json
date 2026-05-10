@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 5955",
+  "bg": "bg-[#8B0000]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "אמיצה",
+      "clue": "מתגברת על הפחד שלה ועושה מעשים נועזים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מוצר",
+      "clue": "חפץ כלשהו שמכינים במפעל ואפשר להציע אותו ללקוחות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "צר",
+      "clue": "מקום דחוק, צפוף ולא רחב שקשה מאוד לעבור דרכו",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "כנסת",
+      "clue": "המבנה בירושלים שבו יושבים מאה ועשרים חברי הממשלה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "בבואה",
+      "clue": "ההשתקפות שלנו כשאנחנו מביטים במים צלולים או בחלון",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "ברזל",
+      "clue": "החומר הכי מוכר וחזק בטבע שמשמש לבנייה ולייצור של כלים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "נחת",
+      "clue": "רוגע, הרגשה טובה של שלווה כשאין אף משימה לעשות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "חכמות",
+      "clue": "ילדות או נשים נבונות שמבינות נושאים מהר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 4,
+      "word": "זמנ",
+      "clue": "השעות, הדקות והימים שחולפים להם בלי הפסקה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "פחמימה",
+      "clue": "אב המזון שנותן לנו אנרגיה ונמצא בלחם, פסטה ותפוחי אדמה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "פתח",
+      "clue": "הרווח בחלון או בדלת שדרכו ניתן לעבור",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "הנחה",
+      "clue": "מצב שבו המחיר בחנות יורד ומשלמים פחות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "כתר",
+      "clue": "התכשיט היקר והזהוב שמונח על ראשו של המלך",
+      "isStarWord": true
+    }
+  ]
+}

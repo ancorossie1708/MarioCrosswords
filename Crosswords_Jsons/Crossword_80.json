@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 80",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פר",
+      "clue": "הזכר הגדול של הפרה שחי ברפת ואוכל חציר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "דולפינ",
+      "clue": "יונק ימי חכם וחברותי שאוהב לקפוץ מעל הגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "וילונ",
+      "clue": "בד יפה שתולים על החלון כדי להסתיר את האור",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "יונה",
+      "clue": "ציפור אפורה או לבנה שמסמלת שלום ונפוצה מאוד בכיכרות העיר",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 1,
+      "word": "קישוט",
+      "clue": "חפץ יפה שתולים בחדר או בסוכה כדי שייראה חגיגי",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "יללה",
+      "clue": "הקול הממושך והגבוה שמשמיעים חתולי רחוב או תנים",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "זרוע",
+      "clue": "החלק הארוך של היד שלנו שמחבר בין הכתף לבין המרפק",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "זהב",
+      "clue": "המתכת היקרה והנוצצת שממנה מכינים תכשיטים וכתרים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "אטמ",
+      "clue": "סתם את החור ומנע מהאוויר או מהמים לברוח",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "מסע",
+      "clue": "הליכה ארוכה ומאתגרת אל יעד מרוחק",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "סוכר",
+      "clue": "אבקה לבנה ומתוקה שמוסיפים לתה או כשאופים עוגיות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "רכב",
+      "clue": "מכונית שזזה בעזרת מנוע וארבעה גלגלים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "שקעימ",
+      "clue": "פתחים בקיר שמהם מקבלים חשמל להפעלת מכשירים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 84",
+  "bg": "bg-[#8B0000]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "אצבע",
+      "clue": "אחד מחמשת החלקים הנפרדים שיש לנו בקצה של כל כף יד",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "צבר",
+      "clue": "השיח הקוצני ממנו צומחות סברס מתוקות",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "עד",
+      "clue": "האדם שנכח באירוע כלשהו ומספר לכולם או לשופט מה בדיוק קרה שם",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "המונ",
+      "clue": "כמות ענקית של אנשים או דברים באותו המקום",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 1,
+      "word": "מגנ",
+      "clue": "כלי פלדה כבד שחיילים החזיקו כדי להדוף חצים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "שרצ",
+      "clue": "חיה קטנה ונמוכה שגופה צמוד לקרקע כשהיא זזה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "גנבימ",
+      "clue": "אנשים שלוקחים לעצמם דברים שלא שייכים להם",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "בקבוק",
+      "clue": "כלי עגול וארוך מפלסטיק או מזכוכית ששומר על מים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "הכרזה",
+      "clue": "הודעה רשמית וקולית שמוסרים להרבה אנשים בבת אחת",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "עכבר",
+      "clue": "מכרסם קטנטן ומהיר עם זנב ארוך שאוהב מאוד גבינה",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "יובל",
+      "clue": "תקופה ארוכה ומיוחדת של חמישים שנים שלמות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "ברז",
+      "clue": "מתקן המתכת שפותחים מעל הכיור כדי שיצאו מים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "טרקטור",
+      "clue": "רכב חקלאי שחורש את השדה וסוחב עגלות",
+      "isStarWord": false
+    }
+  ]
+}

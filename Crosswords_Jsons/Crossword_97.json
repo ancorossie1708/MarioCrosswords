@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 97",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": true
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "שערימ",
+      "clue": "פתחי כניסה גדולים בחומות, או רשתות שבועטים אליהן כדור במשחק",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "שר",
+      "clue": "אדם בממשלה שאחראי על תחום מסוים וחשוב במדינה, כמו חינוך או ביטחון",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "יקר",
+      "clue": "מוצר שעולה הרבה מאוד שקלים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "חצר",
+      "clue": "השטח הפתוח שמקיף את הבית מבחוץ",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 1,
+      "word": "צלחת",
+      "clue": "כלי שטוח או קעור שעליו מניחים את האוכל החם או הקר שלנו",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "ארובה",
+      "clue": "צינור על גג הבית שדרכו יוצא עשן מהקמין",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "מריח",
+      "clue": "נושם את הניחוח הטוב של האוכל דרך האף",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "מחברת",
+      "clue": "פנקס גדול עם שורות שבו התלמידים כותבים בשיעור",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "קו",
+      "clue": "פס דק וארוך שמציירים במחברת על הדף הלבן בעזרת עט וסרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "סירה",
+      "clue": "כלי תחבורה קטן שצף מעל פני הים ויכול להיות מופעל ממשוטים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "פחמימה",
+      "clue": "אב המזון שנותן לנו אנרגיה ונמצא בלחם, פסטה ותפוחי אדמה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "פנס",
+      "clue": "המכשיר המופעל בסוללות שאנחנו מדליקים כדי לראות בחושך",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "עננ",
+      "clue": "הגוש הלבן או האפור שמרחף בשמיים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "בהלה",
+      "clue": "פחד פתאומי שגורם לנו לקפוץ או לצעוק",
+      "isStarWord": false
+    }
+  ]
+}

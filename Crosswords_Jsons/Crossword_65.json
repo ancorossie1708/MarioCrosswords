@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 65",
+  "bg": "bg-[#228B22]",
+  "icon": "⭐",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כדור",
+      "clue": "צעצוע עגול וקופצני שאפשר למסור, לזרוק או לבעוט בו",
+      "isStarWord": true
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "כתר",
+      "clue": "התכשיט היקר והזהוב שמונח על ראשו של המלך",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "רק",
+      "clue": "מילה שאומרת 'בלבד', כלומר אך ורק הדבר הזה מכל השאר ולא שום דבר אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "גול",
+      "clue": "נקודה שקבוצה משיגה כשכדורגל נכנס לרשת",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "קרוסלה",
+      "clue": "מתקן מסתובב בלונה פארק עם סוסים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 7,
+      "word": "הגנה",
+      "clue": "שמירה על עצמנו או על מישהו אחר מפני פגיעה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "רופא",
+      "clue": "האיש שאליו הולכים כשאנחנו מרגישים חולים כדי שייתן לנו תרופה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "אחרימ",
+      "clue": "אנשים שונים, מישהו שהוא לא אני",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "עט",
+      "clue": "מכשיר הכתיבה שמשאיר דיו על הדף ואי אפשר להעלים אותו עם מחק",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "טלה",
+      "clue": "הגור הצעיר והחמוד של הכבשה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 6,
+      "word": "לומד",
+      "clue": "מקבל ידע חדש על חומר או נושא שלא הכיר לפני כן",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "חגורה",
+      "clue": "רצועה ששמים סביב המותניים כדי להחזיק את המכנסיים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "עמק",
+      "clue": "האזור השטוח והנמוך שמשתרע בין הרים גבוהים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "הגשמה",
+      "clue": "הפיכת חלום או משאלה למציאות",
+      "isStarWord": false
+    }
+  ]
+}

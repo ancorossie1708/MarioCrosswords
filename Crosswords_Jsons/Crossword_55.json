@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 55",
+  "bg": "bg-[#87CEEB]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פיתה",
+      "clue": "מאפה עגול ורך עם כיס בפנים שלתוכו מכניסים פלאפל או שווארמה",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פרק",
+      "clue": "אחד החלקים שמחלקים סיפור ארוך למקטעים נוחים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "קצ",
+      "clue": "הסוף המוחלט של התקופה, הרגע שבו משהו נגמר לתמיד ולא יחזור על עצמו",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "גלש",
+      "clue": "החליק במהירות במורד ההר בשלג",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "עמק",
+      "clue": "האזור השטוח והנמוך שמשתרע בין הרים גבוהים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "צילומ",
+      "clue": "תפיסת רגע מיוחד בעזרת מצלמה או טלפון",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "קו",
+      "clue": "פס דק וארוך שמציירים במחברת על הדף הלבן בעזרת עט וסרגל",
+      "isStarWord": true
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הולכ",
+      "clue": "צועד על שתי רגליו בקצב איטי ולא מהיר ממקום למקום",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 1,
+      "word": "וידאו",
+      "clue": "סרטון או קליפ שאפשר לראות במסך הטלוויזיה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "המצאה",
+      "clue": "יצירת מכשיר או רעיון חדש שאיש לא חשב עליו קודם",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "מימ",
+      "clue": "הנוזל השקוף שאנחנו חייבים לשתות כדי לחיות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "משחה",
+      "clue": "חומר רך וסמיך שאפשר למרוח, למשל על השיניים או על פצע",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "כדור",
+      "clue": "צעצוע עגול וקופצני שאפשר למסור, לזרוק או לבעוט בו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "סוכריה",
+      "clue": "ממתק קטן ומתוק, לפעמים מגיע על מקל",
+      "isStarWord": false
+    }
+  ]
+}

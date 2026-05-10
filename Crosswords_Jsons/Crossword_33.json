@@ -1,0 +1,171 @@
+{
+  "theme": "Crossword Level 3455",
+  "bg": "bg-[#228B22]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "טיפול",
+      "clue": "דאגה למישהו חולה או פצוע עד שיבריא לגמרי",
+      "isStarWord": true
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "טיפוח",
+      "clue": "טיפול מסור ושמירה על הניקיון והיופי",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "מצלמ",
+      "clue": "שומר רגעים חשובים באמצעות עדשת הטלפון הנייד שלו",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "מלפפונ",
+      "clue": "ירק ירוק וארוך שהוא חבר טוב של העגבנייה בסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "פעלול",
+      "clue": "תרגיל מסוכן ומרהיב שמבצעים בסרטי פעולה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "חצופ",
+      "clue": "מתנהג בצורה לא מנומסת ופוגעת כלפי אחרים ללא שום הבעת חרטה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "צבי",
+      "clue": "חיה עדינה וזריזה עם קרניים שרצה באזורי הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "פארק",
+      "clue": "שטח ירוק וגדול בעיר שיש בו מתקני שעשועים ושבילי אופניים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 3,
+      "word": "אחו",
+      "clue": "שדה ירוק עם דשא שאליו יוצאות הפרות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 7,
+      "word": "זרמ",
+      "clue": "תנועה מהירה של מים בנהר, או של חשמל בכבל",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "ציור",
+      "clue": "יצירה אמנותית שעושים בעזרת צבעים על דף כדי להביע רגש או רעיון",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "צג",
+      "clue": "המסך השטוח של הטלפון או של המחשב שעליו מוקרנים האותיות והסרטונים",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 5,
+      "word": "נשר",
+      "clue": "עוף דורס עצום ממדים עם ראש קירח",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 1076",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "פרידה",
+      "clue": "הרגע שבו אומרים להתראות והולכים כל אחד לדרכו",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "רקדנ",
+      "clue": "אדם שזז בתיאום לפי קצב המוזיקה בצורה יפה ומרשימה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "אכילה",
+      "clue": "הכנסת מזון לפה ולעיסתו כדי להיות שבעים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 6,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "פחמימה",
+      "clue": "אב המזון שנותן לנו אנרגיה ונמצא בלחם, פסטה ותפוחי אדמה",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "רכ",
+      "clue": "נעים למגע ועדין, כמו פלסטלינה או צמר גפן נעים, ההפך הגמור מקשה",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 2,
+      "word": "דורש",
+      "clue": "מבקש בתוקף ובצורה החלטית שמשהו יקרה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "שמפו",
+      "clue": "נוזל ריחני המיועד לקרצוף ולניקיון של השיער במקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "מגנ",
+      "clue": "כלי פלדה כבד שחיילים החזיקו כדי להדוף חצים",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "מקל",
+      "clue": "חתיכת עץ ארוכה ודקה שאפשר לצעוד איתה",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 3,
+      "word": "היכל",
+      "clue": "אולם ענק ומפואר מאוד שמיועד למופעים או לאירועים חשובים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 5,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "ביצוע",
+      "clue": "עשיית משימה או פעולה במציאות",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "עשב",
+      "clue": "השם הכללי לצמחים קטנים וירוקים הגדלים פרא",
+      "isStarWord": true
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 6,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 1,
+      "word": "גחל",
+      "clue": "חתיכת עץ בוערת שנשארה אדומה וחמה במדורה",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    }
+  ]
+}

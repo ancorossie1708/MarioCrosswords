@@ -1,0 +1,171 @@
+{
+  "theme": "Crossword Level 2768",
+  "bg": "bg-[#FFD700]",
+  "icon": "🌲",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שחייה",
+      "clue": "התקדמות בתוך מים בבריכה בעזרת הידיים והרגליים",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "חסד",
+      "clue": "המעשה הטוב שאנחנו עושים למען האחר, עזרה לזולת",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "ירק",
+      "clue": "צמח שורש או עלה בריא שאנחנו חותכים לסלט",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 5,
+      "word": "ארי",
+      "clue": "החיה השואגת שמכונה גם מלך החיות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "ראש",
+      "clue": "החלק העליון בגוף שלנו שבו יש גם את המוח והפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "קר",
+      "clue": "התחושה המקפיאה בחורף שגורמת לנו לרעוד ולמהר ללבוש מעיל עבה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "רביעיה",
+      "clue": "הרכב הכולל 4 פריטים או קבוצת מוזיקאים בגודל הזה",
+      "isStarWord": true
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 2,
+      "word": "צבעימ",
+      "clue": "הגוונים שאנחנו רואים בעולם, כמו אדום, כחול וירוק",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "בושה",
+      "clue": "ההרגשה הלא נעימה שיש לנו כשאנחנו מפשלים ומסמיקים",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 1,
+      "word": "צבעי",
+      "clue": "בעל המקצוע שמגיע עם מברשת לגוון את הקירות בבית לקראת החג",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 2,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "עוגה",
+      "clue": "קינוח מתוק וטעים שאופים בתבנית ומקשטים בימי הולדת",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "גדל",
+      "clue": "הוסיף סנטימטרים לגובה שלו והתפתח",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 5,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "בסיסי",
+      "clue": "פשוט וחשוב מאוד, ההתחלה של כל דבר",
+      "isStarWord": false
+    },
+    {
+      "id": 16,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "הולכ",
+      "clue": "צועד על שתי רגליו בקצב איטי ולא מהיר ממקום למקום",
+      "isStarWord": false
+    }
+  ]
+}

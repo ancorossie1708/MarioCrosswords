@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 2594",
+  "bg": "bg-[#87CEEB]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מטוס",
+      "clue": "כלי רכב ענק עם כנפיים שלוקח אותנו לחופשה בחוץ לארץ",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "מות",
+      "clue": "סיום החיים, הרגע שבו הלב מפסיק לפעום",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 5,
+      "word": "על",
+      "clue": "ממוקם מלמעלה, מעל משהו אחר, כמו הספר שנמצא ___ השולחן",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "פה",
+      "clue": "האיבר המרכזי שבו אנחנו לועסים את המזון ומפיקים מילים כדי לדבר",
+      "isStarWord": true
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "בלדה",
+      "clue": "שיר קדום המספר סיפור ארוך, לעיתים עצוב",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "דבש",
+      "clue": "הנוזל המתוק והדביק שהדבורים מייצרות בכוורת",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 3,
+      "word": "חמישה",
+      "clue": "המספר שבא אחרי ארבעה ולפני שישה",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הסכמה",
+      "clue": "כשאנחנו אומרים \"כן\" ותומכים בדעה של מישהו",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "הכנסה",
+      "clue": "הכסף שמרוויחים מעבודה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 2,
+      "startRow": 3,
+      "startCol": 6,
+      "word": "שנ",
+      "clue": "העצם הלבנה והקשה שצומחת בתוך הפה שלנו ועוזרת לנו לנגוס בתפוח או בחטיף",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "נחת",
+      "clue": "רוגע, הרגשה טובה של שלווה כשאין אף משימה לעשות",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "שונא",
+      "clue": "מרגיש רגש חזק ורע כלפי מישהו אחר ואינו סובל את נוכחותו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "משקולת",
+      "clue": "חפץ כבד מאוד שנעזרים בו לאימון וחיזוק השרירים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "הלכ",
+      "clue": "צעד על רגליו בקצב איטי ולא מיהר",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 4,
+      "word": "פארק",
+      "clue": "שטח ירוק וגדול בעיר שיש בו מתקני שעשועים ושבילי אופניים",
+      "isStarWord": false
+    }
+  ]
+}

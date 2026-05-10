@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 3473",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "נהגות",
+      "clue": "נשים שאוחזות בהגה במכונית, אוטובוס או רכבת",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "גוזר",
+      "clue": "חותך ניירות או בדים לחתיכות בעזרת מספריים חדות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 6,
+      "startRow": 0,
+      "startCol": 7,
+      "word": "תחפושת",
+      "clue": "בגד מיוחד שלובשים כדי להיראות כמו דמות אחרת, בעיקר בפורים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "אכילה",
+      "clue": "הכנסת מזון לפה ולעיסתו כדי להיות שבעים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "כס",
+      "clue": "המושב המפואר והזהוב שעליו יושב המלך בארמון",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 4,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "כלוב",
+      "clue": "תא סגור עם סורגים שבו שומרים על ציפורים או חיות אחרות",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "רחל",
+      "clue": "המילה בשפה העברית שמתארת כבשה בוגרת",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "כדור",
+      "clue": "צעצוע עגול וקופצני שאפשר למסור, לזרוק או לבעוט בו",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "הוד",
+      "clue": "מראה מלכותי ומרשים מאוד המעורר כבוד",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "טבעת",
+      "clue": "תכשיט עגול שעונדים על האצבעות",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "טלה",
+      "clue": "הגור הצעיר והחמוד של הכבשה",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 6,
+      "word": "עפר",
+      "clue": "האדמה היבשה שמתפוררת לאבק בקיץ",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "כורסה",
+      "clue": "מושב רך ונוח מאוד המיועד לאדם אחד, לרוב ניצב בסלון",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    }
+  ]
+}

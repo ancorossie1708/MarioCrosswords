@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 8816",
+  "bg": "bg-[#8B0000]",
+  "icon": "❄️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שלג",
+      "clue": "פתיתי הקרח הרכים והלבנים שמכסים את החרמון",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "שמ",
+      "clue": "המילה שבעזרתה אנחנו מצביעים על מקום רחוק שנמצא מעבר לכביש או בקצה החדר",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "המלצה",
+      "clue": "עצה טובה לנסות משהו שכדאי לעשות או לראות",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "מלמד",
+      "clue": "עוזר לאנשים אחרים להבין איך עושים משהו בצורה ברורה ונכונה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "צמ",
+      "clue": "הפסיק לחלוטין לאכול ולשתות במהלך יום הכיפורים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "תמ",
+      "clue": "אדם פשוט, צנוע וישר שאינו נוהג לשקר או לרמות אף אחד",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "גשמימ",
+      "clue": "טיפות מים רבות שיורדות מהעננים בחורף",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 6,
+      "startRow": 2,
+      "startCol": 1,
+      "word": "שלישיה",
+      "clue": "חבורה המונה בדיוק 3 חברים, או אחים שנולדו באותה הלידה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 4,
+      "word": "דעות",
+      "clue": "מחשבות של אנשים שונים לגבי מה נכון לעשות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 3,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "תחת",
+      "clue": "החלק הנמוך ביותר, נמצא למטה ממשהו אחר",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "דירה",
+      "clue": "המקום שאנו גרים בו, לרוב בתוך בניין משותף",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "זהות",
+      "clue": "הפרטים שמייחדים אותנו, כמו שם מלא ומספר רשמי",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "זנב",
+      "clue": "האיבר המאורך שמקשקש מאחור אצל כלבים וחתולים",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 3,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "סיר",
+      "clue": "הכלי העמוק ממתכת שמניחים על האש כדי להכין פסטה",
+      "isStarWord": true
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 5,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "טבעות",
+      "clue": "תכשיטים עגולים מזהב או כסף שעונדים על האצבעות",
+      "isStarWord": false
+    }
+  ]
+}

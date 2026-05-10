@@ -1,0 +1,171 @@
+{
+  "theme": "Crossword Level 59",
+  "bg": "bg-[#8B0000]",
+  "icon": "🐪",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פח",
+      "clue": "הכלי מפלסטיק או ממתכת שאליו אנחנו זורקים את כל הזבל והשאריות",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "פעלול",
+      "clue": "תרגיל מסוכן ומרהיב שמבצעים בסרטי פעולה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "פרפר",
+      "clue": "חרק יפהפה ועדין עם כנפיים צבעוניות שמתעופף בין פרחים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "וידאו",
+      "clue": "סרטון או קליפ שאפשר לראות במסך הטלוויזיה",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "חמור",
+      "clue": "חיה אפורה ועיקשת שלעיתים סוחבת משאות כבדים",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 1,
+      "word": "מוח",
+      "clue": "האיבר המדהים שנמצא בתוך הגולגולת ואיתו פותרים תרגילים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 5,
+      "word": "עד",
+      "clue": "האדם שנכח באירוע כלשהו ומספר לכולם או לשופט מה בדיוק קרה שם",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "בחירה",
+      "clue": "קבלת החלטה וסימון אפשרות אחת מתוך כמה",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "חומ",
+      "clue": "הצבע הכהה שמזכיר שוקולד או אדמה רטובה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "חתכ",
+      "clue": "פציעה פתוחה בעור שנגרמה מסכין או מנייר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "מלונ",
+      "clue": "פרי קיצי מתוק, צהוב או ירוק מבחוץ וכתום או ירקרק מבפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "כוכבית",
+      "clue": "סימן קטן שמוסיפים ליד מילה כדי להפנות להערה בתחתית העמוד",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 0,
+      "word": "כתמ",
+      "clue": "טיפת הלכלוך שנשארת על החולצה ששפכנו עליה שוקו",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 3,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "כבד",
+      "clue": "חפץ שהמשקל שלו רב וקשה להרים אותו מהרצפה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "מגדל",
+      "clue": "בניין מאוד מאוד גבוה שמגרד את העננים",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "across",
+      "len": 2,
+      "startRow": 7,
+      "startCol": 6,
+      "word": "פנ",
+      "clue": "מכשיר חשמלי שמוציא אוויר חם ובעזרתו מייבשים את השיער הרטוב אחרי מקלחת",
+      "isStarWord": false
+    }
+  ]
+}

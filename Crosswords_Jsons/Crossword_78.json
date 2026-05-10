@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 78",
+  "bg": "bg-[#E0FFFF]",
+  "icon": "☁️",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "זהות",
+      "clue": "הפרטים שמייחדים אותנו, כמו שם מלא ומספר רשמי",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "הצלחה",
+      "clue": "השגת המטרה שלנו ועשיית משהו בצורה מצוינת",
+      "isStarWord": true
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "שחר",
+      "clue": "הרגעים הראשונים של הבוקר, עוד לפני שהשמש זרחה",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "שד",
+      "clue": "יצור מפחיד ודמיוני מהאגדות שלפעמים מגשים משאלות כשהוא יוצא מתוך מנורת קסמים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "across",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "כוח",
+      "clue": "מה שיש הרבה ממנו לאנשים חזקים ושריריים",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 1,
+      "startCol": 4,
+      "word": "כתב",
+      "clue": "רשם מילים ומשפטים על הנייר בעזרת עיפרון",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "ילדות",
+      "clue": "התקופה הקסומה בחיים שבה אנחנו צעירים ומשחקים",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "רב",
+      "clue": "אדם דתי וחכם שמלמד הלכה, מספר סיפורי תורה ועורך חופות",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 7,
+      "word": "ברקימ",
+      "clue": "אורות חזקים ומבריקים שמופיעים בשמיים בחורף",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "אהבה",
+      "clue": "הרגשה טובה וחמה שיש לנו בלב כלפי חבר או משפחה",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 3,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "אשפ",
+      "clue": "קוסם מיומן או מישהו שמצטיין במשהו בצורה בלתי רגילה",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "בועט",
+      "clue": "נותן מכה חזקה ומהירה עם הרגל בכדור מכל הלב אל עבר השער",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "עב",
+      "clue": "ענן אפור, כבד וסמיך שמכסה את השמש ומביא איתו את גשמי החורף",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "across",
+      "len": 4,
+      "startRow": 5,
+      "startCol": 4,
+      "word": "צבעי",
+      "clue": "בעל המקצוע שמגיע עם מברשת לגוון את הקירות בבית לקראת החג",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 6,
+      "startRow": 7,
+      "startCol": 1,
+      "word": "שטיחונ",
+      "clue": "מחצלת קטנה שמונחת בכניסה לבית כדי לנגב את הרגליים",
+      "isStarWord": false
+    }
+  ]
+}

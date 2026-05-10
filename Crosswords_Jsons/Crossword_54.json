@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 54",
+  "bg": "bg-[#EDC9AF]",
+  "icon": "🌋",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פחד",
+      "clue": "התחושה המלחיצה שמורגשת כשאנחנו לבד בחושך",
+      "isStarWord": false
+    },
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 2,
+      "startRow": 0,
+      "startCol": 0,
+      "word": "פנ",
+      "clue": "מכשיר חשמלי שמוציא אוויר חם ובעזרתו מייבשים את השיער הרטוב אחרי מקלחת",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "across",
+      "len": 5,
+      "startRow": 0,
+      "startCol": 3,
+      "word": "צבעימ",
+      "clue": "הגוונים שאנחנו רואים בעולם, כמו אדום, כחול וירוק",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "בית",
+      "clue": "המבנה הפרטי שבו כל משפחה מתגוררת",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "יבש",
+      "clue": "נטול רטיבות, כמו בגד שעמד הרבה זמן בשמש",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 4,
+      "startRow": 1,
+      "startCol": 2,
+      "word": "מעיל",
+      "clue": "בגד חורפי, עבה ומחמם שלובשים בחוץ כדי לא להירטב או לרעוד מקור",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 5,
+      "startRow": 2,
+      "startCol": 0,
+      "word": "דמעות",
+      "clue": "טיפות מים קטנות שזולגות מהעיניים כשבוכים",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 2,
+      "startRow": 2,
+      "startCol": 6,
+      "word": "שי",
+      "clue": "מתנה נחמדה שעטופה בסרט צבעוני שמביאים למישהו שאוהבים כשבאים להתארח בחג",
+      "isStarWord": true
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 5,
+      "word": "הנחות",
+      "clue": "מבצעים בחנות שבהם המחיר יורד ומשלמים פחות",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 0,
+      "word": "זוחל",
+      "clue": "מתקדם על גחונו קרוב מאוד לאדמה ללא שימוש ברגליים, בדומה לנחש",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "across",
+      "len": 6,
+      "startRow": 4,
+      "startCol": 2,
+      "word": "לחמניה",
+      "clue": "מאפה אישי שכיף להכין ממנו כריך לבית הספר",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 4,
+      "startRow": 4,
+      "startCol": 7,
+      "word": "הגנה",
+      "clue": "שמירה על עצמנו או על מישהו אחר מפני פגיעה",
+      "isStarWord": false
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 4,
+      "startRow": 6,
+      "startCol": 0,
+      "word": "חצות",
+      "clue": "השעה המאוחרת בלילה, בדיוק השעה שתים עשרה",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 3,
+      "word": "תנ",
+      "clue": "חיית בר שחיה בטבע בישראל ומייללת בלילות, קרובת משפחה של הכלב שדומה לשועל",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 3,
+      "word": "נחת",
+      "clue": "רוגע, הרגשה טובה של שלווה כשאין אף משימה לעשות",
+      "isStarWord": false
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "theme": "Crossword Level 71",
+  "bg": "bg-[#FFD700]",
+  "icon": "💧",
+  "gridSize": {
+    "rows": 8,
+    "cols": 8
+  },
+  "words": [
+    {
+      "id": 1,
+      "direction": "across",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 1,
+      "word": "חצות",
+      "clue": "השעה המאוחרת בלילה, בדיוק השעה שתים עשרה",
+      "isStarWord": false
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "len": 4,
+      "startRow": 0,
+      "startCol": 2,
+      "word": "צנונ",
+      "clue": "ירק שורש עגול וקטן, אדום מבחוץ ולבן וחריף מבפנים",
+      "isStarWord": false
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 4,
+      "word": "תבנ",
+      "clue": "הקש היבש שנותנים לסוסים לאכול בדיר",
+      "isStarWord": false
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "len": 3,
+      "startRow": 0,
+      "startCol": 6,
+      "word": "זקנ",
+      "clue": "אדם שחי הרבה מאוד שנים והשיער שלו הלבין",
+      "isStarWord": false
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "len": 5,
+      "startRow": 1,
+      "startCol": 0,
+      "word": "רכיבה",
+      "clue": "ישיבה והתקדמות על גבי אופניים או על גב של סוס",
+      "isStarWord": false
+    },
+    {
+      "id": 6,
+      "direction": "across",
+      "len": 2,
+      "startRow": 1,
+      "startCol": 6,
+      "word": "קו",
+      "clue": "פס דק וארוך שמציירים במחברת על הדף הלבן בעזרת עט וסרגל",
+      "isStarWord": false
+    },
+    {
+      "id": 7,
+      "direction": "across",
+      "len": 3,
+      "startRow": 2,
+      "startCol": 4,
+      "word": "נגנ",
+      "clue": "האדם שמופיע ומפיק צלילים מגיטרה או פסנתר",
+      "isStarWord": false
+    },
+    {
+      "id": 8,
+      "direction": "across",
+      "len": 4,
+      "startRow": 3,
+      "startCol": 0,
+      "word": "יונה",
+      "clue": "ציפור אפורה או לבנה שמסמלת שלום ונפוצה מאוד בכיכרות העיר",
+      "isStarWord": false
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 3,
+      "word": "השראה",
+      "clue": "רעיון יצירתי שמגיע אלינו פתאום וגורם לנו ליצור",
+      "isStarWord": false
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "len": 5,
+      "startRow": 3,
+      "startCol": 7,
+      "word": "פעלול",
+      "clue": "תרגיל מסוכן ומרהיב שמבצעים בסרטי פעולה",
+      "isStarWord": false
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "len": 2,
+      "startRow": 4,
+      "startCol": 5,
+      "word": "פג",
+      "clue": "תינוק שמיהר לצאת מהבטן ונולד מוקדם מהזמן הרגיל וזקוק לטיפול צמוד",
+      "isStarWord": true
+    },
+    {
+      "id": 12,
+      "direction": "across",
+      "len": 6,
+      "startRow": 5,
+      "startCol": 2,
+      "word": "תרנגול",
+      "clue": "הציפור שמעירה אותנו בבוקר עם קוקוריקו",
+      "isStarWord": false
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "len": 2,
+      "startRow": 6,
+      "startCol": 1,
+      "word": "צו",
+      "clue": "הוראה רשמית או פקודה חשובה שחייבים לציית לה ללא שום ויכוח",
+      "isStarWord": false
+    },
+    {
+      "id": 14,
+      "direction": "across",
+      "len": 4,
+      "startRow": 7,
+      "startCol": 0,
+      "word": "חובה",
+      "clue": "משימה שאין ברירה ומוכרחים לבצע, כמו שיעורי בית",
+      "isStarWord": false
+    },
+    {
+      "id": 15,
+      "direction": "across",
+      "len": 3,
+      "startRow": 7,
+      "startCol": 5,
+      "word": "דגל",
+      "clue": "חתיכת בד שמונפת על תורן ומייצגת את המדינה",
+      "isStarWord": false
+    }
+  ]
+}
